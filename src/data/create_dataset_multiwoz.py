@@ -121,9 +121,9 @@ def main(args):
         # add id into the data and add into list
         cleaned_data.append(dialogue_data)
 
-    # 2. Create final Dataframe 
+    # 2. Create final Dataframe
     df = pd.concat(cleaned_data)
-    df["id"] = [i for i in range(0, len(df))]
+    df["id"] = list(range(0, len(df)))
 
     # 3. Save the dataframe to disk
     callcenter_datadir_path = Path(args.out_dir)
