@@ -1,0 +1,1404 @@
+text,topic,id
+I am looking for a restaurant that is expensive and in the west,Restaurant,0
+There are 9 matching restaurants. What food would you like?,Restaurant,1
+I would really like to try some British food please.,Restaurant,2
+I have 2 matching restaurants.  Would you like more details on them?,,3
+"No, if you could just book me into one for saturday, that would be great.",,4
+"Ok, how many people and what is the time preference?",Booking,5
+"I need if for four, 13:30, Saturday.",Restaurant,6
+"Sure, you're booked at Travellers Rest with reference number A5LK844G. May I help with anything else?",,7
+Okay great no that will be it.,,8
+Okay. Glad I could be of help. Please call again.,,9
+I'm bored and need to venture out into the centre. What should I absolutely go see?,Attraction,10
+"there are lots of museums, colleges, and churches to visit",Attraction,11
+What kind of museums are offered in that area?,Attraction,12
+There are 11 museums in the centre of town. They are all free to enter.,Attraction,13
+Perfect. I also need a train that goes to cambridge and arrives by 20:15.,Train,14
+Can I ask where you're departing from and what day?,Train,15
+departing from peterborough and going to cambridge.,,16
+There are quite a few trains all week that could fit your needs. Which specific day are needing so we can narrow these down a bit.,Train,17
+I'll be travelling on Wednesday,Train,18
+"Tra TR0922 leaves at 13:17 and you will arrive by 14:L08 that is the latest one,can I book it for you ?",Train,19
+May I have the price ?,Train,20
+The fare is 23.60 pounds,Train,21
+"How long is the train ride from Peterborough to Cambridge, please?",Train,22
+The trip will last 50 minutes,Train,23
+"Thanks, that's it for today. Goodbye!",,24
+Did you want reservations?,Train,25
+I'll be requesting a taxi to golden house please,Taxi,26
+"Sure thing, when you like to leave by?",Taxi,27
+I want to arrive there by 07:00,Taxi,28
+You are booked! Your car is a red audi and contact number is 07727005105,Taxi,29
+Thank you that is all I need today.,,30
+Just to confirm - you wanted picked up at alexander bed and breakfast correct?,Taxi,31
+"no, he taxi should depart from hotel du vin and bistro",Taxi,32
+"Alright, I'll fix it for you",,33
+Thank you for your help,,34
+I'm sorry for the mixup. Your taxi is a white lexus. The contact number is 07770889191. Is there anything else?,Taxi,35
+That's it for today. Thank you.,,36
+You're welcome. And I apologize again for the confusion. If I can help you with anything else in the future don't hesitate to ask.,,37
+Find me a train out of Cambridge to london kings cross,Train,38
+There are 70 results. Is there a certain day or time you'd like to leave?,Train,39
+I need it on Friday and it should arrive at London Kings Cross by 21:45.,Train,40
+"TR1006 arrives at 19:51, would that work?",Train,41
+I guess that will work. Can you please make a booking for 3 people and when you are through may i also have the booking reference number.,Train,42
+Yes I have booked that for you and your reference number is E3M7QM9F.,Train,43
+i also need a place to dine.,,44
+Is there a particular cuisine or location that I can recommend for you?,Restaurant,45
+"Yes, British food in the West would be great!",Restaurant,46
+Saint johns chop house serves british food in the west.,Restaurant,47
+What is the phone number and postcode to Saint Johns Chop House?,Restaurant,48
+01223353110 is the number.,Restaurant,49
+May I have the postcode as well ?,Restaurant,50
+Here you go cb30ad,Restaurant,51
+"Great, thanks very much, that's all I need!",,52
+You're welcome. Have a nice day!,,53
+I am looking for a restaurant that serves Irish food and is in the expensive price range.,Restaurant,54
+There is not a restaurant serving Irish food in the expensive price range.  Would you like another restaurant?,Restaurant,55
+Is there an expensive korean restaurant?,Restaurant,56
+"Yes, Little Seoul is a Korean restaurant in the expensive price range.",Restaurant,57
+Great! Can you give me the address and area of Little Seoul?,Restaurant,58
+Little seoul is located at 108 Regent Street City Centre.  May I help you with anything else today?,,59
+no thank you good bye,,60
+Thank you. Good bye,,61
+I need a train to London Kings Cross on Wednesday.,Train,62
+I can help with that. Where are you departing from?,,63
+"I will be departing from Cambridge, and need to arrive by 08:30",Train,64
+The TR1058 Leaves Cambridge at 7:00 and gets into London Kings Cross at 7:51. The cost is 23.60. Would you like to book it?,Train,65
+"That won't be necessary, thanks for your help.",,66
+Is there anything else you need today?,,67
+"Yes, I would like to see an attraction in the centre of town.",Attraction,68
+We have many fine attractions in the center of town. Do you have a specific type in mind?,Attraction,69
+"Yes, please. Multiple sports would be great. If not, theatre is my second choice.",Attraction,70
+"There are no multiple sports places, might i recommend mumford theatre?",Attraction,71
+No thank you that will be all,,72
+I have more theatre attractions if you're interested.,Attraction,73
+"Yes please, can I have the names of some other theater attractions?",Attraction,74
+Does the Cambrdige Corn Exchange theatre in the center pique  your interest?,Attraction,75
+"That sounds interesting! Can I have their address, entrance fee, and phone number?",Attraction,76
+we are unsure of their entrance fee but their address is wheeler street	and phone number is 01223357851,Attraction,77
+Great that's all I needed. Thanks for your assistance.,,78
+Thank you for using the Cambridge TownInfo centre. Goodbye.,,79
+There's some disagreement about what to do about a car accident. Can you help me with that?,,80
+"Of course, I can get you the contact information for Parkside Police Station if you'd like.",Police,81
+I would like the address and postcode please.,Police,82
+"Okay the address is Parkside, Cambridge and the postcode is CB11JG. Anything else you need?",Police,83
+"Thank you, goodbye.",,84
+You are more than welcome.,,85
+Yes I am looking for a restaurant in east cambidge that serves indian food,Restaurant,86
+curry prince is one that fits your needs,Restaurant,87
+"I will want it for five, on Thrusday, 15:15",Restaurant,88
+I have it booked for you. The reference number is LK03FYO8.,Booking,89
+Thank you! I also need info on a train. It should leave on friday after 12:45.,Train,90
+"Okay, I can help you find a train. What is your destination?",Train,91
+I'm going to peterborough.,Train,92
+I have a train leaving at 13:06 and arrives in peterborough at 13:56. Would you like to book that train?,Train,93
+"Yes, and please let me know the expense and travel time.",Train,94
+It is 16.50 pounds and the travel time is 50 minutes. How many will the booking be for?,Train,95
+"Actually, I don't need tickets just yet. I'm all set here. Thanks for all your help - goodbye!",,96
+"Goodbye, I hope you enjoy your trip!",,97
+I've been injured and I need a hospital that is close to this location.,Hospital,98
+The emergency department's number is 0122327118. would you like me to contact them for you?,Hospital,99
+I am injured and need a hospital.,Hospital,100
+"Okay, I have contacted the emergency department for you. Can I have your address?",Hospital,101
+I do not know it. Can I have the hospitals phone number?,Hospital,102
+sure i have the phone number right here. But like i said i called them for you. here is the number 01223217118,Hospital,103
+I would like a train going to cambridge from leicester in the morning.  Can you book a seat for me and let me know the reservation number?,Train,104
+"There are trains that leave at 9 minutes past the hour, every hour, all morning. What time would you like to leave?",Train,105
+I need to arrive by 10 am please on a Tuesday.,Train,106
+How about train 4734?  It arrives in cambridge at 09:54.,Train,107
+Sounds good. I need 4 tickets.,Train,108
+"Booking was successful, the total fee is 151.19 GBP payable at the station. Your reference number is : MRTSNQMU.",Train,109
+I'm also looking for a cinema to visit?,Attraction,110
+There are two- one in the south and one in the centre. Which would you like to visit?,Attraction,111
+"I would like the cinema in the south please. I need the phone number, entrance fee, and postcode.",Attraction,112
+Cineworld Cinema is located in postcode cb17dy.  The phone number is 00872208000 and you'll have to call them directly for entrance fee information.,Attraction,113
+Thank you so much for the information.  I will call them.  Have a good day.,,114
+"Anytime, happy to help.",,115
+Yeah you are very welcome.,,116
+Thank you for contacting Cambridge TownInfo Centre.  Have a great day!,,117
+"I going to be staying in the centre part of town, what is there to do at that area?",Attraction,118
+"There's a lot of popular attractions in the centre of town, including boating, cinema, museums, nightclubs, and much more. Do you have a specific preference?",Attraction,119
+"No, I don't have a preference. What's a good place to go to?",,120
+"I would suggest the Museum of Archaelogy and Anthropology.  It is located at University of Cambridge, Downing Street and has free admission.",Attraction,121
+"May I get the postcode, phone number for that attraction?",Attraction,122
+"Yes, the postcode is cb23dz. The phone number is 01223333516. Can I help you with anything else?",,123
+"Yes, I'd like information about the Alpha Milton guest house.",,124
+"alpha-milton guest house is a moderate priced 3 start guesthouse in the north, it does not have free internet or parking. They are located at 63 milton road.",Hotel,125
+That sounds good please book that for 3 people starting on saturday for 5 nights.,Hotel,126
+"You are all set, the reference number is C3JA0EZJ, any further questions today?",,127
+"I'd like to book a taxi to take me from the museum to the hotel. If possible, I'd like to leave the museum no later than 24:45.",Taxi,128
+"Booking completed!
+Booked car type	:	grey ford
+Contact number	:	07511988882",Taxi,129
+"Great. Thank you, that will be all for now. Have a great day.",,130
+Okay. Thank you very much.,,131
+"Hello, I am traveling soon and can't wait to see some local tourist attractions.  Can you help me find a place to stay when I am there?",Attraction,132
+Do you have a preference in area?,Hotel,133
+"No, I don''t have an area preference. I would like to stay in a guesthouse with at 4 star rating. I also need WiFi.",Hotel,134
+I would suggest the acorn guest house would you like the info?,Hotel,135
+Is there another nearby option?,,136
+"Yes, there are several options. They are all priced in either the cheap or moderate price range. Do you have a preference?",Hotel,137
+"I have no price range preference, do any have free parking?",Hotel,138
+The Allenbell is in east. It has free wifi and parking. Would you like me to book that for you?,Booking,139
+No thank you. Can you please give me the address?,Hotel,140
+"it is located in 517a coldham lane, postcode cb13js",Hotel,141
+Could you give me information on Cafe Jello Gallery?,Attraction,142
+sure its located in the west and is a museum. Free admission too,Attraction,143
+I also need a tax leaving my hotel by 18:30 to take me to the museum.,Taxi,144
+"You are booked, look for a ford pinto.  kidding, look for a yellow lexus, the drivers contact info is 07407659393, any further questions?",Taxi,145
+"That is all I need today, thank you.",,146
+"No problem, have a great day.",,147
+Can you help me find a place to stay that is moderately priced and includes free wifi?,Hotel,148
+"sure, i have 17 options for you",Hotel,149
+Are any of them in the south? I'd like free parking too.,Hotel,150
+"Yes, two are in the south and both have free parking and internet. I recommend the Bridge Guesthouse. Would you like me to book a reservation?",Hotel,151
+Please. I need a room on tuesday for 5 nights. 4 people will be staying.,Hotel,152
+i bookid bridge guest house	and Reference number is : KYKQFY1U.,Booking,153
+Thank you so much.,,154
+Of course. I can help at any time.,,155
+looking for places to go in town. The attraction should be in the north and should be in the type of mutliple sports,Attraction,156
+I have nothing matching what you are looking for. Perhaps another area or another attraction?,Attraction,157
+I want to stay in the north. Are there any attractions with boats?,Attraction,158
+riverboat georgina has nice boats. Are you interested ?,Attraction,159
+"I would like their phone number, entrance fee, and address.",Attraction,160
+"they are at cambridge passenger cruisers, jubilee house,cb43ax. or call them on 01223902091.",Attraction,161
+I also need a hotel. One with free wifi and not too expensive.,Hotel,162
+"If you want to stay in the north, the Acorn Guest House is moderately-priced and quite nice. If you want cheap, I recommend Worth House.",Hotel,163
+Okay let's try the Acorn Guesthouse.,,164
+Okay. Would you like to book a room at the Acorn Guest House?,Booking,165
+Can you book it for me and get a reference number ?,,166
+"I would be happy to book the Acorn Guest House for you.  Can you please tell me the day, length of stay, and the number of people.",Booking,167
+I actually won't need a booking. Can you tell me the star of the hotel and if they offer free parking?,Hotel,168
+The Acorn Guest house is a beautiful 4-star guest house. They do offer internet and parking. Would you like me to provide their contact information for future reference?,Hotel,169
+"No, thank you. Could I get the entrance fee of the Riverboat Georgina?",Attraction,170
+"I am sorry I do not have that information, I can give you their phone number if you would like.",,171
+Yes the phone number would be great.  What are their hours?,Attraction,172
+"The phone number is 01223902091.  Their website is vague, I'm afraid you'll have to call them for their hours.  What else can I help you with today?",,173
+no that is it for now thanks,,174
+You're welcome. Have a good visit.,,175
+"Hello, I am looking for a place to stay that has free parking in the South area. Can you help me with that please?",Hotel,176
+I have four options ranging in price from cheap to expensive ranging in from 3 to 4 stars.,Hotel,177
+Are any a guesthouse?,,178
+Yes I have 3 guesthouses matching your criteria. Would you like to book one of them?,Booking,179
+No I just need you to recommend one for me.,,180
+"Aylesbury odge guesthouse,I will book it for you,is there anything else I can do for you ?",Hotel,181
+"I don't need you to book it, I just need the phone number and post code please.",Hotel,182
+"The phone number is 01223240089, and the post code is cb17sr. Is there anything else I can assist you with?",Hotel,183
+"Thanks, also looking for a restaurant in the same part of town in the expensive range. Can you recommend one?",Restaurant,184
+the good luck chinese food takeaway is great. Shall i book it ?,Restaurant,185
+Please book the restaurant and I also need a taxi.,Taxi,186
+"What time would you like to dine, and how many will be in your party?",Booking,187
+There will be 6 of us. We'd like 12:15 on Saturday please.,Restaurant,188
+Your table is booked (ref# SCHAG4OI). What time do you need that taxi?,Taxi,189
+I'd like it to arrive in time to get us there before 12:15.,Taxi,190
+Your black ford taxi has been booked and your contact number is 07103139053.,Taxi,191
+Thanks. That is all for now.,,192
+Okay.  Please call us if we can help you further.  We hope you enjoy your stay.,,193
+I'm looking for a particular restaurant called the Pizza Express,Restaurant,194
+"There seems to be two locations.  They are both located in the centre of town.  One is on Regent Street City Centre, and the other is on Jesus Lane Fen Dutton.",Restaurant,195
+Ok can you suggest one and reserve a table for 6 at 18:30 on saturday and I need the reference number too please,Restaurant,196
+"Ok, you are all booked at the pizza express on regent street. Reference number is 1ASQ2S6Y.",Restaurant,197
+Thank you! I'm also looking for a hotel called the Autumn House.,Hotel,198
+Autumn House is a cheap guesthouse in the east area of town with free internet and parking. Would you like me to book it?,Booking,199
+"Yes, I need it for 5 nights starting on Saturday for 6 people.  Please send the reference number.",Hotel,200
+I was able to book your room for Autumn House. The reference number is 9IUTQ641. Is that all you need?,,201
+"No, I'll also be needing a taxi to get between the two places, I'll need it to get to the restaurant by the booked time.",Taxi,202
+you will be riding in a gray toyota contact # is 07710210724,Taxi,203
+"Groovy like Greg Brady!  That is everything,  Thank you for your help.",,204
+"No problem at all, you have a great trip!",,205
+"Hi, I am so excited to see some local tourist attractions on my upcoming trip.  Can you help me find a place to dine when I am there?",Attraction,206
+Of course I can help you with that. May I ask your price range and what kind of food you would like to eat?,Restaurant,207
+I would like expensive italian food.  What do you suggest?,Restaurant,208
+"Does it matter where your restaurant is located? We have four expensive italian restaurants in the center, and one in the south.",Restaurant,209
+I would like the one in the South.,Restaurant,210
+I would recommend Frankie and Bennys. Would you like any particular information about that restaurant?,Restaurant,211
+Please book that one for 5 people on Thursday at 17:30.,Restaurant,212
+Booking was successful. The table will be reserved for 15 minutes on Thursday at 17:30. Your reference number is IIL1W17L,Booking,213
+I am also looking for a swimming pool.,,214
+"I would recommend parkside pools in the centre, would you like more information?",Attraction,215
+Where is the area the swimming pool is? Also can i have contact number and Car type of a taxi to commute between these to place on time.,Taxi,216
+The pool is located in the centre. For your taxi what time would like to leave the restaurant and arrive at the pool?,Taxi,217
+"Well, my reservation is at 17:30 so before that.",Taxi,218
+Ok that is reserved the car type is a white skoda and contact number is 07749508592.,Taxi,219
+"Great thank you, that was all I needed today.",,220
+I hope you have a great trip!,,221
+I need a place to stay in the north with a 4 star rating please.,Hotel,222
+I have 8 guesthouses in the north.  Would you like some information on the Archway House? It has free parking and internet.,Hotel,223
+Is it in the cheap price range?,,224
+"No, it's moderately priced would you like another hotel?",Hotel,225
+What hotels have free parking?,Hotel,226
+I have the archway house that offers free parking. Would you like to make reservations?,Booking,227
+"No thank you, could I have the address with postcode and phone number?",Hotel,228
+"The address is 52 gilbert road cb43pe, phone number 01223575314. Is there anything else you need today?",Hotel,229
+I would like to find a boat in the north of town as well.,Attraction,230
+There is the Riverboat Georgina in the north.  Would you like the information for it?,,231
+Can you just give me the entrance fee amount and the address?,Attraction,232
+"The address is cambridge passenger cruisers, jubilee house. The entrance fee is unlisted. Anything else today?",,233
+There is no entrance fee?,Attraction,234
+The entrance fee is not available. It is absent from my database.,Attraction,235
+"Okay, thank you so much! I don't need anything else then, goodbye!",,236
+Thank you so much for using our services.  Goodbye.,,237
+I'm looking for a hotel in the centre with free parking.,Hotel,238
+I have a few hotels with free parking. Do you want me to go through the whole list with you?,Hotel,239
+"No, you don't have to do that. Can you recommend a 5 star hotel?",Hotel,240
+"There are no 5 star hotels in the centre with free parking. There are two four star hotels, though. Does cost concern you?",Hotel,241
+Is there one with a four star rating?,Hotel,242
+"There are two 4 star places, one a guesthouse and one a hotel. Would you like a reservation at one of these?",Booking,243
+Can you suggest one please? And I need a postcode.,Hotel,244
+The alexander bed and breakfast is cheap and the postcode is cb12de. Would you like to make a booking?,Hotel,245
+Can you tell me about the 4 star hotel instead?,Hotel,246
+Sure. The University Arms Hotel is on Regent Street in the centre of town.  It is 4 start and expensive.  Is their any other information I can provide?,Hotel,247
+I am also interested in a place to dine. I would like to have Asian Oriental cuisine.,,248
+What is the price range for you?,Hotel,249
+"It's a special dinner, so expensive is fine.  I need a postcode and address with that recommendation please.  Thanks so much!",Restaurant,250
+"Sure, did you have a specific kind of cuisine in mind?",Restaurant,251
+I'm looking for an Asian Oriental place in the same area as the hotel.,Restaurant,252
+There are four restaurants in that area that fit that criteria.,Restaurant,253
+4 expensive asian restaurants? Well if so pick the one you'd recommend. Oh and get me the postcode and address.,Restaurant,254
+I recommend Kymmoy in the centre. It's located on 52 Mill Road.,Restaurant,255
+"Thanks, that's all I needed today.",,256
+"Alright, have a lovely day and goodbye.",,257
+"Hello, I'm looking for an architecture place to go in the centre of town.",Attraction,258
+"there are several architecture places you could go, all saints church,great saint mary's church,holy trinity church, and old schools, which one could you prefer?",Attraction,259
+Old Schools sounds cool - can I have their phone number?,Attraction,260
+You can contact Old Schools at 01223332320. Is there anything else I can assist you with?,,261
+I'm looking for the gonville hotel.,Hotel,262
+Gonville hotel is in the expensive price range in the centre would you like me to book it,Booking,263
+No can I just get the hotel type and phone number please?,Hotel,264
+It is a normal hotel and the phone number is 01223366611.,Hotel,265
+Thanks. Can I also book a taxi to take me from the hotel to the old school. I want to leave the hotel by 21:00.,Taxi,266
+The taxi has been reserved. Your taxi would be a black honda and you can contact it at 07973129543.,Taxi,267
+Thank you so much that's all i need.,,268
+Have a good trip at Cambridge. Goodbye!,,269
+Good evening. Can you help me find a guesthouse to stay at for the weekend?,Hotel,270
+"acorn guest house is in the north part of town and available, when would you like to stay?",Hotel,271
+Does it have free WiFi?,Hotel,272
+"Yes, it does! It also has free parking.",Hotel,273
+Could I get the phone number for them.,Hotel,274
+Phone number is 01223353888.,Hotel,275
+"Thanks. Oh, I forgot to ask, is that in the moderate price range?",,276
+The Acorn guesthouse is in the moderate range. Would you like to book a room?,Booking,277
+"No, I'll have to think about it. Thanks though. Bye!",,278
+You're quite welcome. Thanks for contacting the Cambridge TownInfo Centre and have a great day!,,279
+Can you give me some information on the Allenbell? It's a hotel.,Hotel,280
+"It is a 4 star hotel that is cheap, and in the east of town. It is a guesthouse type and phone number is 01223210353.",Hotel,281
+I need it for 5 people and 5 nights starting from sunday. I will also need the reference number.,Hotel,282
+I have successfully booked it for you. Your reference number is I44610JK.,Booking,283
+I'm also looking for a museum in the east area. Can you help me find one?,Attraction,284
+"Yes, the Cambridge Artworks is a wonderful museum in the east. Would you like more information?",,285
+Yes! Can I have the postcode for it?,Attraction,286
+"Sure, the postcode for cambridge artworks is cb13ef.  Do you need any more information?",,287
+"Well, I also need to book a taxi.  I want to leave the hotel by 19:30.",Taxi,288
+"Certainly I can help with that, will you destination be  from allenbell?",Taxi,289
+I want to go to the Cambridge Artworks.,Taxi,290
+I have booked a taxi for you. A grey toyota with the contact number 07790143125. Is there anything else you need?,Taxi,291
+No. Thank you very much.,,292
+"Thank you, please enjoy your stay here in Cambridge. And have a wonderful day.",,293
+"Hi, can you please help me find a restaurant that serves Kosher food?",Restaurant,294
+im sorry there are no places serving kosher food,Restaurant,295
+That's alright. How about Chinese food?,Restaurant,296
+"Yeah, there are a lot of options.  Was there a specific part of town or price range you were looking at?",Restaurant,297
+I need it to be in the moderate range please.,Restaurant,298
+"great, i have four options for you!",Restaurant,299
+"cool, which one is the best?",,300
+I like the golden wok. Would you like a booking made.,Booking,301
+"No thanks. I would like the area, address, and postcode please and I will take it from there.",Restaurant,302
+"The Golden Wok is located in the North part of town at 191 Histon Rd, Chesterton.  The postcode is CB43HL.  Is there anything else I can help you with?",,303
+I also need a train from Cambridge to Norwich.,Train,304
+on which day do you want to travel?,Train,305
+I need to leave Monday and arrive by 21:30.,Train,306
+"train TR3753 arrives at 	norwich at 09:55, should I book that?",Train,307
+"Yes that should work, how much will that cost?",,308
+"17.60 pounds per person, also how many shall I book for?",Train,309
+That is all I need today thank you for your time.,,310
+Have a nice day.,,311
+I need to find a restaurant called taj tandoori,Restaurant,312
+"Nice place.  It is located at 64 Cherry Hinton Road, Cherry Hinton.  Can I book a table for you?",Booking,313
+Yes. I need a place for 3 on Wednesday at 17:15.,Restaurant,314
+Great! That booking was successful and your reservation number is K1T4IC74.,Booking,315
+I also need a hotel in moderate price range and star rating of 0.,Hotel,316
+"Cityroomz matches those requirements. Would you like the phone number, or a reservation?",Hotel,317
+Does it have free parking?,Hotel,318
+I'm afraid it does not offer free parking. Would you like to book a room?,Booking,319
+Is there anywhere else which would offer free parking?,Hotel,320
+Not with those criteria. We could start a new search if you like.,Hotel,321
+how about a cheap hotel with free parking?,Hotel,322
+I have two guesthouse available. They both offer free parking and are 0 stars. One is in the north and one in the centre? Do you want a specific area?,Hotel,323
+The area doesn't matter. Can you pick one and book a room for 3 people for 5 nights on Wednesday.,Hotel,324
+I was able to book you at el shaddai. Your Reference number is : 4WHOTORJ.,Booking,325
+"Can I get a taxi from the hotel to the restaurant, I would like to arrive shortly before the booking time.",Taxi,326
+"I have booked your taxi. Your car is a blue volkswagen, they can be reached at at 07653689405 if you have any questions. Can I assist you with anything else?",Taxi,327
+"No, I am all set for today.  You have been very helpful.  Thanks.  Bye.",,328
+Thank you for using our service. Good-bye!,,329
+"Hi, could you help me find a train departing from London Kings Cross?",Train,330
+I'd be happy to help you find a train. What is your destination?,Train,331
+I'll be going to cambridge on thursday.,Train,332
+Trains run that route every couple of hours. Do you have a preferred time to leave or arrive?,Train,333
+I'd like to arrive by 20:00.,Train,334
+"The latest arrival is TR1149 at 17:17, is that ok?",Train,335
+Sounds great. When will that be leaving the station?,,336
+This train leaves at 17:17.,Train,337
+get me the price. also find me  a 4 star hotel in the north,Hotel,338
+I do not have any in the north. What else can I help with?,Hotel,339
+What about a Guesthouse in the North? Can you find me one?,Hotel,340
+There is the Acorn Guest house. It has 4 stars and is moderately priced.  Would you like for me to book it for you?,Booking,341
+Can you just tell me the address please?,Hotel,342
+Price for the train is 23.60 pounds. THe hotel is located at 154 chesterton road.,Train,343
+Can you book the room for me?,,344
+"I would be happy to book that for you. Can you tell me what day you will be checking in, how many people and for how many days?",Booking,345
+I don't need to book a hotel just need the address and price range.,Hotel,346
+It is a moderate priced guesthouse. They can be contacted at 01223353888. Is there anything else I can help you with?,Hotel,347
+"That is all, thank you.",,348
+thank you and enjoy your stay in cambridge,,349
+Do you know what this city might have in entertainment venues?,Attraction,350
+"There are two entertainment venues in the east, two in the south and one in the west area of town.  Do you have an area preference?",Attraction,351
+"I don't care about the area.  If you were me, which one would you enjoy the most?",Attraction,352
+"I would pick whale of a time in the west, located at Unit 8, Viking Way, Bar Hill, postcode cb238el. It is always an adventure there!",Attraction,353
+Is there a place to stay with a moderate price range and free parking?,Hotel,354
+Which area and type of lodging do you prefer?,Hotel,355
+I'm looking for a place that is moderately priced and has free parking.,,356
+The Acorn Guest House is a great little 4-star place on the north side. They're moderately priced and have free parking and internet. Would you like a room there?,Hotel,357
+That is all the information I need. Thank you!,,358
+You're very welcome. Have a great trip!,,359
+Wait! I do want the hotel reservation. Can you book it for me on Thursday for 4 nights for 4 people?,Hotel,360
+"Your room at the Acorn is booked, ref#94RRN05R. Is there anything else I can help you with today?",,361
+No that is all the info I need. I'm sure of it this time ha ha. Thank you!,,362
+you're welcome to use our services anytime,,363
+I want a restaurant in the town centre. Can you help me?,Restaurant,364
+We have 69 restaurants available.  Could you specify type or price range please?,Restaurant,365
+I'm looking for a moderately priced restaurant. I'm looking to book for just myself at 14:00 on Friday.,Restaurant,366
+Okay I took the liberty of booking you into the Oak Bistro that serves traditional British food. Your reference number is BA2MQ3EB.,Restaurant,367
+That sounds perfect. Thanks for your help!,,368
+Have a wonderful day!,,369
+I am looking for a train going from cambridge to london liverpool street,Train,370
+I have many trains available between Cambridge and Liverpool Street. What day are you looking to travel?,Train,371
+I would like to travel on Tuesday and I would like to arrive by 20:15 please.,Train,372
+I have train TR7299 that leaves at 5:59 and arrives at 7:27.  Would you like to book that?,Train,373
+Do you have a train that arrives closer to 20:15.,Train,374
+"Yes,  TR9561 arrives at 19:27.  Would you like to book that train?",Train,375
+"Yes, I need 7 tickets.",Train,376
+Will you needing a reference number?,,377
+Yes please.  I'm also looking for a hotel in the west.  I need free parking and wifi available.  Thanks so much.,Hotel,378
+Your train was booked successfully for 7 people. Your reference number is MQRGDBZA. There are many hotels located in the west. Are you looking for something in a certain price range?,Hotel,379
+A 3 star hotel in the cheap price range,Hotel,380
+Im sorry I have nothing matching that criteria can we adjust the amenities?,Hotel,381
+Need a train leaving on Thursday after 14:30,Train,382
+I found 195 trains that match your prerequisites. What is your destination?,Train,383
+I am going to London Liverpool Street from Cambridge.,Train,384
+Train TR3237 arrives at 17:27 and cost 16.60 pounds. Would you like me to book it?,Train,385
+"No thanks, I'm not sure how many seats I'll be needing yet.",,386
+Okay. Just call us back when you do.,,387
+"Oh, I am also looking for an African restaurant in the centre...North African, to be exact.",Restaurant,388
+"There aren't any in that particular area, do you have any alternative preferences?",Restaurant,389
+"Hmm, can you see if there might be an expensive restaurant that serves specifically ""north african"" food in the centre of town?",Restaurant,390
+"I apologize, but we are don't have any North African restaurants in this town at all. I do have an expensive African restaurant in the centre. Will that suffice?",Restaurant,391
+"No, if I can't get North African I'd really prefer something radically different. Chinese, maybe?",Restaurant,392
+How about the Ugly Duckling? They serve chinese food and are located in the centre of the city.,Restaurant,393
+Okay. can you book me a table for 7 at 11:00 for Thursday?,Restaurant,394
+That booking was unsuccessful. Would you like to try another time?,Booking,395
+"Sure, can we try for 10:00 instead?",Restaurant,396
+Booking for 10:00 was successful. Your reference number is XVUUCPBH. Is there anything else I can help with?,Restaurant,397
+"That will be all, thank you very much.",,398
+You're welcome. Have a great day!,,399
+I am looking for a place to go in town. Preferably a park that is in the east.,Attraction,400
+Cherry Hinton Water Play is in the east side. Anything else I can do for you?,,401
+"Yes. Please get me their address, phone number and their entrance fee.",Attraction,402
+"The park is located at Cherry hinton Hall, Cherry Hinton Road. The phone number is 01223446100 and is free to enter. Is there anything else I can do for you?",,403
+"Yes, I'm also looking for an expensive restaurant that serves Jamaican food.",Restaurant,404
+"I'm sorry, but there are no Jamaican restaurants anywhere in Cambridge. We do have plenty of expensive restaurants, though, so I could find you a different cuisine.",Restaurant,405
+"That is fine, how about a restaurant that serves Asian oriental food?",Restaurant,406
+"There are two expensive Asian oriental restaurants in Cambridge, one in the north and the other in the centre. Which would you prefer?",Restaurant,407
+"Let's try the one in the north. I'd like to book a table for 4 at 19:00 on Wednesday, please.",Restaurant,408
+"I'm sorry, there were no more tables available. Would you like to try the other restaurant, or a different time?",Booking,409
+I would like to try the other oriental restaurant for the same time 19:00 for party of 4.,Restaurant,410
+"I'm very sorry, neither of these restaurants have availability at that time on Wednesday.  Would you like to try another time/day?",Booking,411
+Can any of them do a time at 18:00? I'll also need a taxi to travel inbetween two locations.,Taxi,412
+Your booking for Kymmoy restaurant was successful and your reference number is 5IFCHKNS. The information for you taxi is a Grey Tesla and its contact number is 07674543654.,Taxi,413
+Wonderful. Thanks for your help. That's all I needed.,,414
+You're welcome. Have a great time!,,415
+I would like to know a few attractions to visit in town around the Cambridge centre.,Attraction,416
+"There's the architecture of the churches and schools. There are also cinemas, colleges, and boats.",Attraction,417
+I am interested in something in the centre of town.,,418
+There are 44 different attractions to visit in the centre of town. Is there a specific kind of attraction in mind. Perhaps a museum?,Attraction,419
+"That sounds nice. What would you suggest? I'm not too picky really, just looking for a new place to visit.",,420
+"I have ballare,it is a nightclub and is very nice.",Attraction,421
+Can you send me the address?,,422
+"The address for Ballare is Heidelberg Gardens, Lion Yard. Is there anything else I can help you with?",,423
+"Yes, im also looking for a moderately priced restaurant that serves world food.",Restaurant,424
+There are no results. Is there another search I can try?,,425
+How about italian food instead?,Restaurant,426
+pizza hut cherry hinton is a italian great place to eat. Shall i book it for you ?,Booking,427
+"Yes, please!  I need a 16:45 booking for two on Friday.",Restaurant,428
+Booking was successful. The table will be reserved for 15 minutes.Reference number is : H43JKOEL.,Booking,429
+I also need a taxi. It should arrive at the restaurant by 16:45,Taxi,430
+Will you be leaving from Ballare?,Taxi,431
+"Yes, I am leaving from Ballare.",Taxi,432
+Booking is complete a blue toyota will pick you up.,Taxi,433
+"Do you have the taxi's reference or confirmation number, please?",Restaurant,434
+"No, only informatin I have is Booked car type	:	blue toyota
+Contact number	:	07110577861",Taxi,435
+"okay, that will be all for now. Thank you for all your help.",,436
+Alright. Thanks for calling.,,437
+I need to find a British restaurant in West Cambridge.,Restaurant,438
+There are multiple options for you. To narrow them down what price range do you have in mind?,Restaurant,439
+"No, can you recommend a favorite?",,440
+"I would recommend Graffiti.  It is a bit expensive, so if you want something moderately price there is also Saint Johns Chop House.",Restaurant,441
+Please book 2 tables for 8 people on friday also i need train tickets for 8 people.,Train,442
+What time would you like these reservations?,Booking,443
+Graffiti sounds good.  I actually need that reservation for 5 people at 20:00 on Wednesday. Can I have the reference number for that?,Restaurant,444
+"Booking was successful. The table will be reserved for 15 minutes.
+Reference number is : YYPPDY56. anything else i could help you with?",,445
+I would also like a train departing from london liverpool street and arriving in Cambridge at 09:00 on the same day.,Train,446
+There are two trains that would work. One arrives at 07:07 and the other arrives at 01:07. Which one would you prefer?,Train,447
+Can you book the train that arrives at 07:07 that one would work great. I need the reference number as well.,Train,448
+"i can definitely do that, how many tickets would you like?",Train,449
+it's for the same group of people,Train,450
+"Alright, I've booked a train for your group, the reference number is AOIMGBHK, and there will be an 83 GBP fee at the station.",Train,451
+"Great, thanks!  That's all I needed right now!",,452
+You're welcome. Have a great day.,,453
+"Hello, I'm looking for a cheap place to stay. It doesn't need to have free parking.",Hotel,454
+Alexander bed and breakfast is available in the cheap price range.,Hotel,455
+I also need free wifi and a 0 star rating please.,Hotel,456
+I don't see any hotels with free internet in cheap price range.,Hotel,457
+"Ok, then, is there one that is cheap and offers free parking instead?",Hotel,458
+No there is not one that matches that criteria.,Hotel,459
+"Ok, I will try again later.",,460
+"Hold on, I had mistakenly listed you as not wanting free parking (rather than not caring if they did). I have two gueshouses that offer both parking and internet.",Hotel,461
+I want which ever one is close to town.,,462
+How about the el shaddai? I will need to know how long your stay is going to be and how many is in your party please,Hotel,463
+Sure.  There will be 5 of us for 4 nights starting Monday.,Hotel,464
+The el shaddai was full but I was able to book you at the city centre north b and b. Reference number XLPM3FVL.,Booking,465
+Perfect thanks so much for your help that was all I needed today.,,466
+You are welcome.  Enjoy your stay.  Bye.,,467
+Can you help me find a place to stay? It'll need to have free parking.,Hotel,468
+they are many. what is your price range and prefered side?,Hotel,469
+I just am looking for a 1 star hotel in the north.,Hotel,470
+"I'm sorry, there aren't any hotels that meet your criteria. Would you like to try something else?",Hotel,471
+Sure. How about 4 stars?,Hotel,472
+"That narrows it down to about 7 options. I have 6 moderately priced ones, and 1 cheaper one. Do you have a preference?",Hotel,473
+A moderate priced one will be fine. Any will do. I'll need it booked for Wednesday. I will be staying 2 nights with 6 people.,Hotel,474
+"Okay, I made you a reservation at the acorn guest house. Your reference number is 5MSB4H92. Can I do anything else for you today?",Booking,475
+Now i need a place to dine. Cheap and Belgian food sounds good.,Restaurant,476
+I do not have anything matching that criteria. Is there another type of food you would like to try?,Restaurant,477
+How about Indian food?,,478
+What area would you like to be in?,Restaurant,479
+The area doesn't matter.,Restaurant,480
+There are 4 indian restaurants that meet your criteria. I would recommend kohinoor. I really enjoy their food.,Restaurant,481
+Can you reserve a table for me?,,482
+"Sure, what day, time, and number of people would you like to book it for?",Booking,483
+I would like the booking for wednesday at 19:45 for a group of 6,Restaurant,484
+"I have you booked at mahal of cambridge, the reference number is 4B8HXAF2",Booking,485
+"Lastly, I need a taxi between the two places, I would liek to get to the kohinoor restaurant by the booked time of 19:45.",Taxi,486
+"Booking completed!
+Booked car type	:	black skoda
+Contact number	:	07910219263",Taxi,487
+thanks for your help and have a good day,,488
+you're very welcome!,,489
+I'm so tired. Really need a place to lay my head for the nights. Can you find me some 3-star lodgings somewhere in the south?,Hotel,490
+Absolutely!  There is the Bridge Guest House which is moderately priced and The Lensfield Hotel which is more expensive. They are both 3-star establishments in the South.,Hotel,491
+Does the Lensfield Hotel include parking?,Hotel,492
+"Yes, it does include parking. Would you like me to make a booking?",Booking,493
+Yes please book that for 6 people starting Thursday for 5 nights? I need the reference number as well.,Hotel,494
+Your rooms for 6 have been reserved at the Lensfield Hotel. Reference number: P00B5C1R. Can I help you with anything else today?,,495
+"Yes please, I  need a trains going to london liverpool street.",Train,496
+Sure. Where will you be departing from?,Train,497
+I'll be leaving Cambridge on Tuesday and need to arrive by 13:15.,Train,498
+I've booked 6 tickets for you.  The total is 99.6 GBP and your reference number is VZX1QAGN. Can I help you with anything else today?,,499
+"No, that seems to be everything. Thank you.",,500
+Perfect. Have a great day. Goodbye.,,501
+I'm looking for places to go in the centre of Cambridge.,Attraction,502
+There are 44 different things to do in the centre of Cambridge.  Can you help me narrow it down by type of activity or attraction?,Attraction,503
+What's the postcode for your favorite one?,Attraction,504
+My personal favorite is holy trinity church. They are on market st and the postcode is cb23nz. Anything else I can help you with today?,Attraction,505
+I also need to book a train.,Train,506
+"i have plenty of trains, can i get more information please?",Train,507
+I need to leave on sunday after 12:30 from cambridge to stevenage,Train,508
+"The first train after 12:30 is the TR0523, which leaves Cambridge at 13:21.",Train,509
+"Great, can I get two tickets on it, please?",Train,510
+"I've booked two tickets for the TR0523 train, and your reference number is R6GCVVA0. Can I help you with anything else today?",,511
+"No, thank you. You've been very helpful! Goodbye.",,512
+Thank you for contacting Cambridge TownInfo centre.  I hope you have a pleasant trip!  Goodbye!,,513
+I am looking for a train departing from Stevenage.,Train,514
+Where will you be leaving from?,Train,515
+"Stevenage, on Tuesday.",Train,516
+What time are you looking to depart?,Train,517
+I am leaving at 20:30.,Train,518
+"Okay, I have two trains that might work. TR9084 departs at 21:54 and TR3606 leaves at 23:54. Both have a duration of 49 minutes and cost 12.80 pounds. Anything else today?",Train,519
+"Let's go with TR9084, please.",,520
+Okay I have booked that for you and your reference number is 6GRN0MSA. Anything else I can do for you?,,521
+No that is all thank you very much.,,522
+Thank you for using our service. Have all of your needs been met?,,523
+"Yes, thank you very much.",,524
+You're quite welcome. Goodbye!,,525
+I need a train to Peterborough on Monday.,Train,526
+"The earliest train is at 5:06, do you want me to book it?",Train,527
+Does it arrive by 16:00?,Train,528
+"Yes, it arrives at 05:56.",Train,529
+"Are there any later trains? Also I need to get the price, departure time, and train ID when we find a suitable one.",Train,530
+Yes I have trains that arrive from 5:56 to 15:24. Any preference?,Train,531
+What is the train ID and response of the train that arrives at 15:24? I would like to book that one.,Train,532
+Train TR4765 leaves at 15:06 and arrives at 15:56 and costs 16.50 pounds. How many tickets would you like to book?,Train,533
+I need a train that departs from Cambridge. Does TR4765 go from Cambridge to Peterborough?,Train,534
+"Yes TR4765 departs cambridge monday at 15:06, arriving in peterborough by 15:56.  How many tickets will you need?",Train,535
+I was just looking for information for now. I do need some additional information on a place to eat though.,,536
+There are 110 restaurants in the area - are you looking for a specific type of cuisine?,Restaurant,537
+I am thinking Indian food would be perfect and in the centre.,Restaurant,538
+There are 22 Indian restaurants in Cambridge. Do you have a preferred price range or area in town you'd like to dine?,Restaurant,539
+I do not have a specific price or location in mind.  Please just send me the address and phone number of an Indian restaurant.,Restaurant,540
+"Okay I have chosen the Curry Prince for you, which is a very popular location. Their address is 	451 Newmarket Road Fen Ditton and their telephone number is 01223566388.",Restaurant,541
+Thank you. That is all I needed.,,542
+You are welcome.  Goodbye.,,543
+"Hey, are there any interesting attractions in towncentre today?",Attraction,544
+Great saint mary's church is an architecture location in the centre of town.,Attraction,545
+Great.  What is the phone number?,Attraction,546
+The phone number is 01223350914.,Attraction,547
+"Thank you, are there in Korean restaurants in the centre area?",Restaurant,548
+There is Little Seoul located at 108 Regent Street City Centre.  Would you like to book a table there?,Booking,549
+No thanks. I do need the phone number and post code.,Restaurant,550
+Sure! Their phone number is 01223308681. Their postcode is cb21dp. Anything else I can help with?,,551
+"Thanks. I will need a taxi to get from the church attraction to the restaurant, please.",Taxi,552
+What time would you like taxi to pick you up from the church?,Taxi,553
+I'd like to leave at 11:45. Can I have the contact number and car type please?,Taxi,554
+"A grey VW will pick you up, and the contact number is 07216248494. Can I help you with anything else today?",Taxi,555
+"No that is all, thank you!",,556
+You are very welcome. Good day.,,557
+Can you find specific attractions for people?,Attraction,558
+I can try.  What are you trying to find?,Attraction,559
+I am looking for people's portraits exhibition.,,560
+"Yes, it's a lovely museum in the west at girton college, huntingdon road. Their phone number is 01223338901 and they offer free entrance. May I help with anything else?",,561
+can you give me the post code for it?,Attraction,562
+The post code is cb3ojg. May I help with anything else?,,563
+"Yes, I would also like to find a restaurant called Golden House please.",Restaurant,564
+They're located in the centre. Would you like a reservation?,Booking,565
+"Yes, how about a table for 8 on saturday. Try 19:30, if that doesn't work then try 18:30.",Restaurant,566
+I was able to book you at 18:30 on Saturday. Reference number 3C5H16N9. Is there anything else I can help you with?,,567
+"That is all, thank you.",,568
+Thank you very much! Have a great day,,569
+"Hello, I need a train on Wednesday arriving at 14:30.",Train,570
+"Ok, I can help you with that. Where will you be departing from?",Train,571
+I am departing from Cambridge and going to Leicester and I need to arrive by 14:30.,Train,572
+TR2176 leaves at 09:21. can i book for you?,Train,573
+please make a booking for 3 people. Make sure you get the reference number,Train,574
+"Booking was successful, the total fee is 113.4 GBP payable at the station . Reference number is : FHU6LGXD. is there anything else i could help you with?",,575
+I'm looking for some information about a and b guest house.,Hotel,576
+"It is located in the east, is moderately priced, and has a 4 star rating.  It has free internet.  It's located at 124 Tenison Road.",Hotel,577
+Thank you. Can I also get the phone number?,Hotel,578
+Sure. Their phone number is 01223315702. Anything more I can help with?,Hotel,579
+"No, that is all I need for now.",,580
+It's been my pleasure. Goodbye,,581
+I'm interested in rooms for the night where you can get free wifi.,Hotel,582
+There are 32 hotels or guesthouses with free wifi. What price range are you looking for?,Hotel,583
+"I'm looking for something in a moderate price range, but it must have at least a 4 star rating.",Hotel,584
+"What part of town are you interested in? East, north or south?",Hotel,585
+I don't have a preference for the area.,,586
+How about a and b guest house?,Hotel,587
+that will be nice. get me the reference numbers,Hotel,588
+When would you like to book this for?,Booking,589
+Please book for Sunday for 3 nights and 6 people.,Hotel,590
+"Sorry, the hotel can't accommodate you for that time frame? Want to try a different date?",Booking,591
+"No, I need it for those days. Can you try different hotel?",Hotel,592
+"I can try for the Acorn Guest House, if you'd like. They're on Chesterton Road.",Hotel,593
+Sounds good. Can you try and book that one please.,,594
+"Sorry, the Acorn Guest house is not able to accomodate you either. I checked with the other moderately priced 4 star lodgings with free wifi, and none have those dates available. Will any other stay work for you?",Booking,595
+Can we try for just 2 nights then?,Hotel,596
+I've booked that for you. The reference number is 3CRY3DDP. May I help with anything else?,,597
+"nope, that's all I need thank you!",,598
+You're welcome. Have a great day.,,599
+can you find me a guest house that has free wifi in this town?,Hotel,600
+There are 23 guesthouses in town with free wifi. Do you have a price range?,Hotel,601
+How about one that has a 4 star rating and is expensive?,Hotel,602
+"Unfortunately, there are no guesthouses that meet you needs. There are 2 hotels if you are interested.",Hotel,603
+"What about something in the moderate price range, instead?",Hotel,604
+Yes I have many choices in that category. Would you like me to suggest something?,Hotel,605
+book a hotel for 8 people and 3 nights starting from saturday.,Hotel,606
+Please clarify if you want a guesthouse or a hotel. There are no hotels that match your needs but there are 11 guesthouses that do.,Hotel,607
+I want a guesthouse.,Hotel,608
+Would you like me to book you for avalon?,Booking,609
+"Yes, please book for 8 people for 3 nights, starting from Saturday.",Hotel,610
+You're all set to arrive on Saturday. Your Reference number is : 5D3TISUX.,Booking,611
+"great, thanks. i'm also looking for places to go in town.",,612
+Ok.  There are many great things to do in town.  Did you have something particular in mind?,,613
+I would like a place that is fun and serves drinks.,,614
+Sure! Would you rather a nightclub type of environment or more of a park or entertainment venue?,Attraction,615
+"Actually, is there a swimming pool around?",Attraction,616
+which part of town should it be?,Attraction,617
+it should be in the south,Attraction,618
+"I'm sorry, but there are no swimming pools in the south. Would you like to try a different area or attraction type?",Attraction,619
+what options are available,Attraction,620
+"There are swimming pools in the east, north and centre of town. The south has cinema, entertainment, museum, nightclub, theatre and parks. Have a preference?",Attraction,621
+I would prefer the south please.,,622
+"What type of attraction in the south? There are 8 results ranging from cinema, museums, nightclubs, parks.  Which would interest you?",Attraction,623
+"If there are no swimming pools in the south, then I would consider a cinema in the south of town.",Attraction,624
+Cineworld Cinema is in the south. Would you like additional information?,,625
+"Yes, may I please have their address and phone number.",Taxi,626
+"Yes, their address is cambridge leisure park, clifton way and their phone number is 00872208000.",Attraction,627
+I also need a taxi to leave the hotel by 22:45. Please provide the contact number and car type.,Taxi,628
+"What is your destination, and when do you want to arrive by?",Taxi,629
+I'll be going from the hotel to the cinema. I need to leave by 22:45.,Taxi,630
+"I booked a grey skoda for you, contact number is 07059639997!",Taxi,631
+Thank you so much. That is all that I need at this time. Goodbye!,,632
+Thank you. Have a nice day.,,633
+I'm planning a trip to Cambridge I am looking for places to go in centre.,Attraction,634
+What type of attraction are you looking for?,Attraction,635
+"Anything, really, just trying to kill some time. What's your favorite attraction?",Attraction,636
+"There are churches, boats, cinemas, museums and colleges in the city centre.  Would you like information on any of them?",,637
+Surprise me! Can you send me the postcode of the attraction you choose?,Attraction,638
+"You should go see Holy Trinity Church, the stained glass there is simply amazing.  The postcode is cb23nz.  Can I help you with anything more today?",Attraction,639
+Yes - I am also looking for a moderately priced restaurant in the same area.,Restaurant,640
+There are 21 different restaurants that match your criteria. Do you have a type of food you prefer?,Restaurant,641
+"any food will be just fine.Once you find the restaurant you want to book a table for 7 people at 13:30 on friday.
+If the booking fails how about 12:30.
+Make sure you get the reference number",Restaurant,642
+Just to confirm before making a booking: How about Yippee Noodle Bar?  It is in the centre of town and moderately priced.  Would you like this booked?,Booking,643
+"Yes, 7 people at 13:30 on friday.",Restaurant,644
+I'm sorry but that was unsuccessful. Can I try a different restaurant?,Booking,645
+How about 12:30? Are there any tables open then?,Restaurant,646
+Yes. they have a table available at 12:30. Your reference number is IB76ZC58. Would you like to write down their address and phone number?,,647
+"No thank you, I think that will be all I need.",,648
+"Thank you for using Cambridge TownInfo centre, have a good day!",,649
+Hello.  Can you find a taxi to pick me up at Darry's Cookhouse and Wine Shop sometime after 04:00?,Taxi,650
+Not a problem. Where would you like to go?,Taxi,651
+i would like to go to alexander bed and breakfast,Taxi,652
+"Great, I've got a white lexus picking you up at 04:00, your contact number is 07605710484.",Taxi,653
+Thank you very much. I don't need anything else at this time.,,654
+You are welcome.  Have a nice time.  Good bye.,,655
+I'm trying to find information about a particular restaurant called Ian Hong house.,Restaurant,656
+our records don't show that hotel. sorry,Hotel,657
+Are you sure you don't have anything on Ian Hong House? I need the address and postcode.,Restaurant,658
+"Yes, I am sure. There is no Ian Hong House restaurant in our system.",Hotel,659
+Can you please check again? lan hong house.,Restaurant,660
+"Sorry about that! I found the Lan Hong House at 12 Norfolk Street City Centre, cb12lf. It's a moderately-priced Chinese restaurant.",Restaurant,661
+"Great, thanks so much. Can I also get help booking a room at the Huntingdon Marriott Hotel please?",Hotel,662
+sure for what length of stay and how many people please?,Booking,663
+"8 people. 5 nights, starting from Wednesday. Please give me the reference number, please.",Hotel,664
+Your booking was successful. The reference number is: USRCWCJ0. Can I help you with anything else?,,665
+I would like to book a taxi from the hong house to the hotel leaving by 10:15,Taxi,666
+No problem.  I booked a red audi that will pick you up by 10:15.,Taxi,667
+"Wonderful, thank you for everything.",,668
+Have a great trip!  Thank you for contacting us for all your booking needs.  Enjoy your trip!,,669
+One more thing. Can you please give me the taxi contact number.,Taxi,670
+Sure!  The contact number is 07686386258.  The car will be a red Audi.,Taxi,671
+Thank you very much. Have a great day.,,672
+"No problem, have a great day!",,673
+I need a train that is departing from cambridge and should leave on sunday.,Train,674
+Where will you be going?,Train,675
+I will be going to ely and I would like it to arrive by 11:45.,Train,676
+Train TR2475 leaves at 07:50 and arrives by 08:07 on Sunday. Would you like to book this now?,Train,677
+Could I have the price for that train please?,Train,678
+They are 3.52 pounds each,Train,679
+Yes could you book that for me?,,680
+"Yes, I can book that for you.  Can I confirm that this is for one person, or do you need more than one ticket?",Train,681
+Please. I am also looking for a museum in the east please.,Attraction,682
+"In the east we have four museums cambridge artworks, cambridge museum of technology, gallery at twelve a high street and saint barnabas press gallery.",Attraction,683
+Could you tell me the entrance fee and address for the Cambridge Museum of Technology?,Attraction,684
+the entrance fee for cambridge museum of technology is 5 pounds.  shall I get tickets for you if so how many?,Booking,685
+That won't be necessary. Can you tell me the postcode for the museum?,Attraction,686
+The postcode is cb58ld. Is there anything else I can help you with?,,687
+"No thank you, that will be all.",,688
+Alright then. Have a wonderful day. Goodbye.,,689
+"Hello, what expensive restaurants do you know of in the East part of town?",Restaurant,690
+"I have 5, 2 Indian, a Chinese, a British, and a gastropub. Any of them tickle your fancy?",,691
+Can you tell me about the indian places? Are any of them expensive?,,692
+Sitar Tandoori is my favorite. They are indeed expensive. Would you like to book a table there?,Booking,693
+What is their phone number?,Restaurant,694
+Their phone number is 01223249955. Would you like to make a reservation? Or can I help with anything else?,Booking,695
+I need to find an attraction.,Attraction,696
+"There are several attractions in the east part of town. Are you interested in a specific type, such as a museum or outdoors?",Attraction,697
+It is  called cambridge book and print gallery.,Attraction,698
+"Cambridge book and print gallery is in the west, not the east. Are you sure that was the name of the attraction?",Attraction,699
+"Yes, I just need the entrance fee and phone number",Attraction,700
+"Good news, the entrance fee is free!  And the phone number is 01223694264.  Can I help you with anything else today?",,701
+"No, that's it.  Thank you for your assistance today, you have been very helpful!",,702
+Have a great night. I'm glad to be of assistance!,,703
+I want to go eat so please find me a restaurant in the South. Money is no object so something expensive please,Restaurant,704
+"Sure, I found Chinese, Italian, Indian and Mexican restaurants.  What sounds good?",Restaurant,705
+Any of those sound good what do you recommend? I just need the address and type of food they serve.,Restaurant,706
+I'd recommend the Good Luck Chinese Takeaway. They serve Chinese cuisine at 82 Cherry Hinton Road Cherry Hinton.,Restaurant,707
+Also need a hotel in the same area and same price range.,Hotel,708
+"Okay, I have one match. It's The Lensfield Hotel and it is 3 stars. Would you like me to make a reservation for you?",Booking,709
+Does it have free wifi?,Hotel,710
+"It certainly does. Shall I book it for for you, then?",Booking,711
+"No, I just need the address, thank you.",Hotel,712
+The address is 53-57 lensfield road. Do you need anything else?,Hotel,713
+Nothing else. Thank you for researching the restaurant and hotel. Goodbye.,Hotel,714
+Welcome again it has been a pleasure to serve you,,715
+Greetings. I'd like some information about vue cinema.,Attraction,716
+The vue cinema is located in the centre of the city and the phone number is 08712240240.,Attraction,717
+What is the postcode?,Attraction,718
+The postcode is cb11ps. Can I help you with anything else?,,719
+Yes I am looking for an oriental restaurant that is relatively cheap . Any suggestions?,Restaurant,720
+"Dojo Noodle Bar, and J Restaurant are both located in the centre area. Would you like more info on either of these?",Restaurant,721
+Yes I would love to hear about either.,,722
+Both are in the centre of town and in the cheap price range.,Restaurant,723
+What is the phone number and address for Dojo Noodle Bar?,Restaurant,724
+The phone number is 01223363471 and the address is 40210 Millers Yard City Centre.,Restaurant,725
+"Wonderful, now I will need a taxi to commute between the two. I want to leave the cinema by 20:45 to get to the restaurant.",Taxi,726
+"Ok, not a problem! You will be looking for a yellow volkswagen and the taxis phone number is 07352155369.",Taxi,727
+Thanks so much!,,728
+Is there anything else I can do for you today?,,729
+That is everything! Thank you for all your help!,,730
+Have a good day!,,731
+I need to find a place to eat in Centre.,Restaurant,732
+There are many restaurants in centre. Did you have a specific price range or cuisine style you prefer?,Restaurant,733
+moderate and British please.,Restaurant,734
+Restaurant one seven looks good and is British in the moderate price range.,Restaurant,735
+Great! Can I book a table for one at 13:45 on Thursday?,Restaurant,736
+Booking was successful they will hold the table for 15 minutes and the reference number is QJMICCEY. Is there anything else I can help with?,,737
+Yes.  I am also looking for a train departing from cambridge.,Train,738
+Ok what time will you be departing from cambridge? What is your destination?,Train,739
+My destination is kings lynn and I need to arrive by 18:15.,Train,740
+There are quite a few trains that will arrive at the time. What time would you prefer to depart?,Train,741
+What's the last train that gets to Kings Lynn by 18:15 Friday?,Train,742
+That would be train TR9226. It arrives at 17:58.,Train,743
+What time does that train depart?,Train,744
+It departs at 17:11.,Train,745
+Perfect. Please book that train for one person.,Train,746
+"I was able to book it, reference number is I4012ZAZ.",Train,747
+"I actually didn't need that booked just yet, but that will probably save me some time, so thanks! That's all I needed.",,748
+Great! Have a good trip.,,749
+I am coming to Cambridge and would like to see some architecture. Do you have any located in the centre?,Attraction,750
+"Yes, there are 5 places located in the centre. I recommend the All Saints Church on Jesus Lane.",Attraction,751
+Thanks! What's the entrance fee?,Attraction,752
+"There is no entrance fee, it is free. Is there anything else I can help you with?",,753
+"I'd like to find a guesthouse to stay at. I want it to be nice, so I'd like an expensive one.",Hotel,754
+It seems like all of my guesthouses are in different price ranges. No expensive ones are listed. Can I interest you in a different price range?,Hotel,755
+Well then I need a hotel that has free parking and a 4 star rating.,Hotel,756
+I've found three hotels matching your preferences. The University Arms Hotel is in the expensive price range and is located in the centre of town if you are interested.,Hotel,757
+I would like a guesthouse in the moderate price range that has 4 stars and includes free parking.,Hotel,758
+"I have 9 total guesthouses that meet your needs. They are located in the north, east, and south. Do you have a preference?",Hotel,759
+Can you recommend one?,,760
+acorn guest house seems like a nice place because it is the first one on my list how about that one its probably not too shabby,Hotel,761
+"OK, that one sounds great!",,762
+Would you like me to book it for you?,Booking,763
+"Yes, book it for 5 people for 4 nights starting Thursday.",Hotel,764
+Unfortunately the booking was not successful.,Booking,765
+What if we try two nights?,Hotel,766
+Your booking was successful with a reference number of VZRQHFHP. Can I help you with anything else?,,767
+Thanks great. Also I need to have the phone number for All Saints Church on Jesus Lane.,Attraction,768
+Sure All Saints Church's phone number is 01223452587. Anything else?,,769
+Not at the moment. Thank you.,,770
+Thank you for using our service. Have we met all of your needs today?,,771
+"Yes, you have. Thank you. Have a good day.",,772
+You as well! Good bye!,,773
+I will be visiting family in the south part of cambridge and we would liek to get one last boating excursion in.  Any boating places in the south area?,Attraction,774
+It looks like there isn't any boating in the south area.  Would you like me to look in a different area of town?,Attraction,775
+How about a nightclub in the south?,Attraction,776
+"Sure, The Place is on 22 sidney street and the postcode is cb23hg. Phone number is 01223324600.",Attraction,777
+Thank you for all your help.,,778
+Is there anything else I can help you with?,,779
+i would like place to stay. The hotel should be in the type of guesthouse and should include free wifi,Hotel,780
+aylesbray lodge guest house is a nice four star guesthose with internet available. Would you like me to book you a room?,Booking,781
+I would prefer a guest house that has one star.  Is there one available also with free wifi?,Hotel,782
+"No, I'm sorry there are no 1 start guesthouses offering free wifi. Is there anything else I can help you with?",Hotel,783
+"Okay, the four will be fine, then. I don't need to book, yet. Thanks for your help.",,784
+No problem. Are you sure you don't want to go ahead and make a reservation?,Booking,785
+Can you book it for 4 people for 2 nights starting friday?,Hotel,786
+Okay.  I have a reservation for 4 for two nights starting Friday.,Booking,787
+"I would like to get information about some tourist attractions in Cambridge, especially those located in town.",Attraction,788
+We have many wonderful attractions in the area. Is there a specific type of attraction or area you are looking for perhaps?,Attraction,789
+I am looking for a nightclub in the centre and a phone number.,Attraction,790
+We have 5 nightclubs in the Centre. Would you like me to make a recommendation?,,791
+"Yes, a suggestion would be very helpful along with the phone number so I can call them.",Attraction,792
+I would recommend the Ballare Club. Its phone number is 01223364222. Is there anything else I can help you with?,Attraction,793
+"Yes, I am also looking for a restaurant in the same area. I am looking for an expensive restaurant that serves Scandinavian food.",Restaurant,794
+There are no Scandinavian restaurants in the centre with an expensive price range. Would you like to try a different type of food or price range?,Restaurant,795
+What about Indian food?,Restaurant,796
+I have 6 restaurants that meet your criteria. Would the Panahar work for you? It's at 8 Norfolk Street City Centre.,Restaurant,797
+That sounds great. Please book it for 3 people on Thursday at 16:30,Restaurant,798
+I was able to book a table at Panahar for 3 people on Thursday at 16:30. The reference number is 5SIQAVA,Booking,799
+Thank you for your help!  I appreciate it!  Goodbye.,,800
+You're welcome. Have a great time!,,801
+I want to know about the Cambridge and County Folk Museum,Attraction,802
+"It is a lovely museum located in the west part of town, at 2-3 castle street.  Can I get a phone number for you?",,803
+No but I do need the address please.,Attraction,804
+The address is 2-3 castle street.,Attraction,805
+Great!  I also need a moderately priced hotel that is in the east.  Can you help?,Hotel,806
+Is free paring and internet important to you?,Hotel,807
+Free wifi would be great. I don't care about the parking.,Hotel,808
+I found a few guesthouses.  Would that type of room be ok with you?,Hotel,809
+are any of them a 4 star?,Hotel,810
+I have three that are 4 star. Shall I book one?,Booking,811
+"Yes, please book for 5 people and 2 nights starting on wednesday.",Hotel,812
+"Okay, I recommend the Warkworth House. I want to make sure this is okay with you before I go ahead and make a reservation.",Hotel,813
+"Yes, that sounds great. Can I please have the reference number as well?",Hotel,814
+Your reservations have been made for five people for two nights beginning Wednesday.,Booking,815
+I need a train leaving on Friday.,Train,816
+Where are you departing from and what is your destination?,Train,817
+The train should depart from cambridge and should go to ely.,Train,818
+Is there a particular time you'd like to leave?,Train,819
+I would like to leave on Friday and should arrive by 08:15.,Train,820
+"Booking was successful, the total fee is 4.4 GBP payable at the station .
+Reference number is : 57E550PF.",Train,821
+I'm looking for places to go in town. Can you search in the area of south?,Attraction,822
+We have several great options. The Byard Art museum is popular and has free admission.,Attraction,823
+That sounds lovely. What's their phone number?,Attraction,824
+Oh they really are lovely. And the number is 	01223464646.,,825
+Thank you. I am also looking for an expensive Italian restaurant.,Restaurant,826
+"Sure, there are 5 expensive Italian restaurants for you to choose from. Is that a specific area you would like the restaurant to be in?",Restaurant,827
+I'd like one near the museum in the south.,Attraction,828
+We only have one listing for an Italian restaurant in the south.  It's located at Cambridge Leisure Park Clifton Way Cherry Hinton.  Does this interest you?,Booking,829
+Yes.  I need a table for 8 at 11:00 on Tuesday.,Restaurant,830
+I was able to book the table for eight on Tuesday 11:00.  The reference number is  R8O6B9DF.  The table will be reserved for 15 minutes.,Booking,831
+"Thank you, can I also get a taxi between the two places?",Taxi,832
+Absolutely! When would you like to arrive at or leave by?,Taxi,833
+I'd like to get to the restaurant by my reservation time.,Taxi,834
+I was able to book a black honda contact number is 07790378961,Taxi,835
+Thank you so much. You took care of everything. Thanks. Bye.,,836
+Thank you for using our service. Have a great day! Goodbye.,,837
+"Hello, I am looking for an expensive restaurant that is on the east side of town.",Restaurant,838
+Grafton Hotel restaurant is an expensive restaurant in the east part of town.,Restaurant,839
+What is the postcode?,,840
+"The postcode of grafton hotel restaurant is C.B 2, 1 U.J.",Restaurant,841
+"What is the address, phone number, and type of food?",Restaurant,842
+"The Grafton Hotel restaurant serves British food. It is located at Grafton Hotel 619 Newmarket Road Fen Ditton, and it's phone number is 01223 241387.",Restaurant,843
+"Great, thank you!",,844
+Do you need any further information?,,845
+No thank you.  Goodbye!,,846
+Thank you.  Have a nice day.,,847
+You too!,,848
+Bye.,,849
+I am looking for a restaurant in the west part of town.,Restaurant,850
+"Cambridge Lodge Restaurant is in the west part of town, and it serves European food.",Restaurant,851
+Thank you. Can I have the address please?,,852
+Yes.  Their address is 139 Huntingdon Road City Centre.,Restaurant,853
+Thank you. I would like their price range and phone number as well please.,Restaurant,854
+Cambridge Lodge Restaurant is in the expensive price range and the phone number is 01223 355166.,Restaurant,855
+"Thank you, goodbye.",,856
+You're welcome. Goodbye.,,857
+Goodbye.,,858
+Enjoy your dining experience.,,859
+I've been a victim of a robbery. Can you help me?,,860
+Sure! I think you'll need the police. Their contact number is 01223358966.,Police,861
+Which department is this?,,862
+The police department,,863
+Thank you very much.,,864
+You're more than welcome!,,865
+I'm looking for the Cherry Hinton Hall and Grounds.,Attraction,866
+Great choice! The Cherry Hinton grounds are located in the east. It is located on Cherry Hinton Road. Their contact info is 01223446104. Any other information I can offer you?,,867
+"Yes, could you give me the postcode please?",Attraction,868
+The postcode is cb18dw. Is there anything else you need?,,869
+I want to find a hotel in the west. It needs to have free parking.,Hotel,870
+"There are two hotels that meet those criteria.  The Huntingdon Marriott is an expensive hotel, and the Cambridge Belfry is a cheap. Which one would you prefer?",,871
+I will try the Huntingdon Marriot.,,872
+Would you like me to book you a room at the huntingdon marriott hotel?,Booking,873
+"Yes, I need a room starting on tuesday.",Hotel,874
+"How many nights would you like it to be reserved, and how many will be in your party?",Booking,875
+I will need three nights and with 5 people.,Hotel,876
+I was unable to book for 5 nights.  Would you like to try for 4 nights?,Booking,877
+"Actually I was mistaken, I need it to be booked for 6 people for 2 nights starting Tuesday.",Hotel,878
+I'm unable to book two nights for six people.  Would you like to try for one day?,Booking,879
+Yes please. One day is fine.,Hotel,880
+The booking was successful. The reference number is 1FN4UUGJ. What else can I help you with?,,881
+I also need a taxi to get me between the two places please.,Taxi,882
+When would you like to leave or arrive?,Taxi,883
+I'd like to leave by 16:15.,,884
+Okay sure. I have booked a white BMW to pick you up and your contact number is 07340002030. Anything else?,Taxi,885
+That takes care of everything. Thank You!,,886
+Thank you for using our system!,,887
+Hello!  I am planning my trip to Cambridge and need information on places to stay.,,888
+ok Id be happy to help with that would you like a guesthouse or Hotel,Hotel,889
+i don't have a preference. I would like a room with a 0 star and free parking,Hotel,890
+Okay there is city centre north b and b would you like me to book it for you?,Booking,891
+I prefer one in the east. How about a 4 star hotel with free parking there instead?,Hotel,892
+There are no 4 star hotels in the east section of town that offers free parking. Would you like to search for a guesthouse?,Hotel,893
+Yes that is fine I need the price range as well.,Hotel,894
+I have several options in the cheap or moderate price range with parking and wifi. How does the leverton house sound?,Hotel,895
+What is the price range of the Leverton House?,Hotel,896
+It's cheap. Would you like me to book a room for you?,Booking,897
+Yes please. I also need a train that leaves after 9:00 on sunday,Train,898
+Can you please tell me how long your stay at the Leverton will be? What day will you be checking in and how many people?,Hotel,899
+"Actually, I apologize no need to book, I was just gathering information.  But I do need information on a train from leicester to cambridge.",Train,900
+TR1079 leaves at 09:09 would that work for you?,Train,901
+That works for me.,,902
+"Is there anything else I can help you with today, bookings or more information?",Booking,903
+"Can you tell me the price of the train ticket, please?",Hotel,904
+The price of the train is 30.24 pounds.,Train,905
+"Thank you so much, that's all I need.",,906
+You are very welcome! I hope you have a wonderful visit.,,907
+I hope so. Can I call any time?,,908
+"We are available anytime, enjoy the rest of your day.",,909
+Are there any Chinese restaurants in the centre part of town?,Restaurant,910
+jinling noodle bar is in the centre abd serves chinese food,Restaurant,911
+Are they expensive?,,912
+They are in the moderate price range.,Restaurant,913
+"Please look for something else in the expensive price range. I will need the address, post code and phone number.",Restaurant,914
+Does the Jinling Noodle Bar sound like a good choice?,Restaurant,915
+"Sure! What's the address, postcode, and phone number of it?",Restaurant,916
+"their address is 11 Peas Hill City Centre, postcode is cb23pp , and phone number is 01223566188",Restaurant,917
+thank you for your help,,918
+Thank you goodbye,,919
+"Hi, could you help me with my plans?  I am looking for a train.",Train,920
+I can help you with that. Where will be departing and where do you want to go?,,921
+I will be departing from Cambridge and going into Ely on Saturday.,Train,922
+Trains run that route every two hours throughout the day. Do you have a target departure or arrival time?,Train,923
+I would like to arrive in Ely by 11:15.  Could you please tell me the price and what the departure time is?,Train,924
+TR0718 arrives at 10:07 on saturday.  Cost is 3.52 pounds.  Would you like me to reserve a seat for you?,Train,925
+I need to book a room in the North as well.,Hotel,926
+"There are 2 hotels and 11 guesthouses to choose from in the north, ranging in price from cheap to moderate. Do you have a price point preference?",Hotel,927
+I would need a hotel with wifi,Hotel,928
+There are 12 hotels that fit your criteria. Do you want a moderately priced or cheap hotel?,Hotel,929
+"I don't care about the price. I absolutely do need free parking, though.",Hotel,930
+Do you have a star rating preference?,Hotel,931
+I do not have a preference on the number of stars.,Hotel,932
+Can I suggest the acorn guesthouse? It's moderately priced and has 4 stars.,Hotel,933
+I want it to be in the type of hotel. It should have wifi and parking too. And it must be in the north.,Hotel,934
+We have two option for you. We have the ashley hotel and the lovell hotel. Both have your commendations you want.,Hotel,935
+Book me with the Ashley Hotel please.,Hotel,936
+"I'd be happy to do that. What is your arrival date, how many in your party, and how many nights?",Booking,937
+its for 5 for 5 nights monday.,Hotel,938
+"Your room is reserved, ref# W4VW9W7M. Is there anything else I can help with today?",,939
+"Thanks so much, no that will be all.",,940
+I am glad I was able to accommodate your needs.,,941
+Is it true Cambridge has the best attractions?  We are looking for something unusual to do in the centre.,Attraction,942
+There is teh museum of archeology and anthropology in the centre that is free of charge,,943
+That's perfect. Thanks so much for your help.,,944
+You're welcome. Is there anything else I can assist you with?,,945
+Yes can you help me find a place to eat too?,,946
+"I'd be happy to help with your request, what area and what type of cuisine are you looking for?",Restaurant,947
+I would like chinese.,,948
+I'm afraid our restaurant system is currently down.  Can I help you with something else at this time?,,949
+i would like to go site seeing,,950
+"Other than the museum previously mentioned, I also suggest checking out the Cambridge University Botanic Gardens on Bateman Street.",Attraction,951
+"Ok, I think we've already established the attraction in the town centre. The next thing I need is a HOTEL in the centre that includes free parking.",Hotel,952
+"The bold letters tells me no interest in a guesthouse huh?  I ran a search there are two hotels, gonville and university arms.  Any preference?",Hotel,953
+"i'd like the gonville please. make a reservation if you can for thursday for 1 person, 3 nights.",Hotel,954
+Booking was successful.  Reference number is W0P1SD78.  Anything else I can help you with today?,,955
+No. That is all for now.,,956
+Thank you for using the Cambridge TownInfo centre. Goodbye.,,957
+"Hi, I need a 4 star guesthouse hotel please.",Hotel,958
+"I have 21 4 star places, can you tell me what area you would like to be in?",Hotel,959
+"The North part of town, please.",Hotel,960
+"There are quite a few.  If you'd like a cheap alternative, I can recommend Worth House, on Chesterton Road. Or for a moderate rate, Kirkwood House is next door.",Hotel,961
+"Could you book the Kirkwood House for me for thursday, 6 people and 5 nights?",Hotel,962
+Your booking was successful. The reference number is 6G15LHZM. Is there anything else?,,963
+That is all I needed. Thanks.,,964
+"Thank you, goodbye.",,965
+I'm looking for a train. The train should leave after 09:00 and should go to broxbourne.,Train,966
+What day will this be on?,Train,967
+On Sunday.,Train,968
+TR941 leaves at 9:01 would you like me to book it?,Train,969
+Yes please. I need that booked for 8 people.,Train,970
+I was able to get you 8 tickets.  Your reference number is V2XTDMK6.  Can I help you with anything else?,,971
+"No, thank you, that is all for now. Have a great day.",,972
+You're welcome. Have a great trip!,,973
+I'd like for a taxi to take me to autumn house from travellers rest,Taxi,974
+Sure thing! What time do you want to leave?,Taxi,975
+"I want to arrive by 07:00, what time I leave is okay.",Taxi,976
+There's a grey skoda that will be picking you up. You can contact the driver at 07605689057.,Taxi,977
+I am staying in west cambridge.  Are there any parks out there to take my kids to?,Attraction,978
+There are no parks on the west side of town. Do you want me to search for a park in a different part of town?,Attraction,979
+"No, can you look for a museum instead?",Attraction,980
+There are 7 different parks on the west side. I would recommend a free park called Kettle's Yard. Would you like more information on it or any other park?,,981
+"Are there any museums on the west side of town? I will need the entrance fee, phone number, and postcode.",Attraction,982
+There are 7 different museums in the west area. All are free addmission except one. Would you like me to make a suggestion?,,983
+"Yes, please pick one for me, and let me know the entrance fee, phone number and postcode.",Attraction,984
+I would recommend People's Portraits Exhibition at Girton College. They offer free entrance. Their postcode is cb3ojg. Their phone number is 01223338901.,Attraction,985
+Can you book it for me?,,986
+"I'm sorry, we don't do bookings for attractions.",,987
+"How about a train? I need to go from Stansted Airport to Cambridge on Saturday and arrive there by 08:45. I need departure time, train ID, and price. Thanks!",Train,988
+how about TR4194? it arrives at 05:52,Train,989
+"Sounds great. I don't need to book it, but I would like the price.",Train,990
+The ticket price is 8.08 pounds. The departure time is 05:24. May I help you with something else?,Train,991
+No that is all the information I need today.,,992
+Your welcome. Have a great day.,,993
+That is all. Have a great day.,,994
+thank you and have a great day,,995
+say hi to your family.,,996
+I will thank you.  Goodbye.,,997
+"I'm looking for some entertainment in the centre, is there anything interesting to see there?",Attraction,998
+"There are tons of things to see in the centre, you'll have a blast. What kind of attraction were you thinking?",Attraction,999
+"I was thinking something in entertainment, but if that is not available I would like to know where the swimming pools are.",Attraction,1000
+Nothing in the terms of entertainment but there is a swimmingpool. It is called Parkside Pools.,Attraction,1001
+that is fine. get me the phone number and address,Attraction,1002
+The phone number is 01223446100. The address is gonville place. Do you need anything else?,,1003
+I'm also looking for information on a restaurant called rice boat.,Restaurant,1004
+"Rice Boat is an expensive Indian restaurant on the west side. Their location is 37 Newnham Road, Newnham. Would you like to book a table there?",Booking,1005
+"Yes, please. Can you reserve a table for Saturday for 5 people at 13:45? Thanks.",Restaurant,1006
+Booking was successful. The table will be reserved for 15 minutes.,Booking,1007
+Can I have the reference number for the booking?,Restaurant,1008
+"Yes I will get you that number,one moment please",Booking,1009
+I need a place to eat in the south that's expensive.,Restaurant,1010
+"There are Chinese, Indian, Italian, and Mexican restaurants that fit that criteria. Do you have a preference?",Restaurant,1011
+I would like Chinese or Mexican restaurants,Restaurant,1012
+How about chiquito restaurant bar? It's an expensive and delicious restaurant in the south.,Restaurant,1013
+"Sure, I need a table for 8 at 17:15 on Wednesday, please.",Restaurant,1014
+"Okay, I was able to reserve that table for you. Your reference number is XAL5QLX9.",Booking,1015
+"Thank you, what places can you go to that are in the same area?",Attraction,1016
+"There are a range of attractions in the south, including parks, nightclubs, a museum, a theatre, a cinema, and more general entertainment venues. What sort of attraction are you interested in?",Attraction,1017
+A museum sounds great. Can you get the phone number for one?,Attraction,1018
+"Yes, the byard museum is reachable at 01223464646, they have free admission and are located at 14 king's parade, any other questions?",,1019
+"That sounds very nice. Can you book me a taxi or car service between those two places? I'd like to arrive by my reservation time, please.",Taxi,1020
+"I was able to book a taxi for you. Be looking for a yellow Skoda. If you need to reach them, please call them at 07550666183. Is there anything else?",Taxi,1021
+"That would be all, thanks!",,1022
+Thank you for using our service. Have a good day. Goodbye.,,1023
+I am looking for information on places to go in Cambridge.  Can you help with that?,,1024
+I can help with that. Is there a particular area you're interested in?,Attraction,1025
+What I'd really like is to find a swimmingpool.,Attraction,1026
+"Yes, there are 4 swimming pools that match those requirements. Is there a particular area you would like to go to?",Attraction,1027
+Any area is fine. Which of the 4 swimming pools do you suggest?,Attraction,1028
+"I personally like Parkside Pools. It's in the center of town, on Gonville Place.",Attraction,1029
+Can I get the postcode as well?,Attraction,1030
+It is cb11ly. Is there anything else I can help you with?,,1031
+I also need a train leaving after 11:00 on friday,Train,1032
+"There are 278 trains that meet that criteria. Would you like to narrow down your options by departure site, destination, or arrival time?",Train,1033
+My destination is london kings cross,Train,1034
+Where will you be departing from?,Train,1035
+I am departing from Cambridge.,Train,1036
+TR1502 arrives in london kings cross friday at 11:51. Would you like me to book you any seats?,Train,1037
+Yes book for 8 people and I need a reference number,Train,1038
+I have made that reservation and your reference number is 1702SDBO.,Train,1039
+Thanks.  That was all I needed. Goodbye.,,1040
+"You're welcome, glad I could help.",,1041
+I am looking for a place for a restaurant called anatolia. Can you help me?,Restaurant,1042
+Anatolia is a moderately priced Turkish restaurant in the city centre.,Restaurant,1043
+Thank you. What is the post code?,Restaurant,1044
+The post code is cb21uj. Would you like me to book a table for you?,Booking,1045
+No but I do need help finding a train leaving Kings Cross after 15:45.,Train,1046
+Okay what day would you like to leave?,Train,1047
+The train should go to cambridge and should leave on sunday.,Train,1048
+"I found 4 trains departing Kings Cross, heading to Cambridge after 15:45 on Sunday. What time would you like to depart?",Train,1049
+I have no preference. I just need to book one of those for 4 people.,Train,1050
+"OK, you have 4 seats reserved on TR2952, reference #J5O3AMV7. Can I help you with anything else today?",,1051
+No that will be all.  Thank you,,1052
+Perfect. Thank you for using the Cambridge TownInfo centre. Enjoy the rest of your day.,,1053
+I am looking for a train from cambridge on monday.,Train,1054
+"Where is your destination, please?",Train,1055
+My destination is Norwich. I am hoping I could catch a train after 15:15.,Train,1056
+Will you be traveling alone?,Train,1057
+Yes. I will be by myself. Looking for one ticket please.,,1058
+"TR9460 leaves cambridge Monday at 15:36, would you like to reserve a seat?",Train,1059
+"No, I just need the price and arrival time.",Train,1060
+"The price is 17.60 pounds, and travel time is 79 minutes.  Do you need to reserve a seat?",Train,1061
+Not at this time. Thanks for the information.,,1062
+"More specifically, the train arrives in Norwich at 16:55. If there is nothing more, thank you for calling. Goodbye.",Train,1063
+I wanted help with finding a hotel in Cambridge today.,Hotel,1064
+"Sure, are you looking to stay on a certain part of town?",Hotel,1065
+I don't have a preference.  But it does need to have 4 stars and include free parking.,Hotel,1066
+I have two hotels located in the west. One is cheap and one is expensive. One hotel is located in the centre and is expensive. Any preference?,Hotel,1067
+Can you tell me the area the cheap one is in and give me it's phone number?,Hotel,1068
+The cheap hotel is in the west.  The phone number is 01954714600. Can I help you with something else?,Hotel,1069
+"Yes, could you give me information on the cambridge corn exchange?",Attraction,1070
+"sure, what kind of information are you looking for?",,1071
+I need the postcode please.,Attraction,1072
+here you go 	cb236bw,Restaurant,1073
+"That is all I need, thank you. Good bye.",,1074
+"Have a great day, please let us know if you need any further assistance.",,1075
+I am looking for a restaurant serving Persian food in the expensive price range.,Restaurant,1076
+"I'm sorry, there aren't any expensive Persian restaurants. Would you like me to check for a different type of food?",Restaurant,1077
+How about any restaurant in the centre?,Restaurant,1078
+There are 33 expensive restaurants in the center of town. Which cuisine type would you prefer?,Restaurant,1079
+"I think I'd like to try Indian food, are there any of those in the center of town?",Restaurant,1080
+"There are 6 restaurants that fit your request. Curry Garden, The Golden Curry, Saffron Brasserie, Panahar, Curry King, and Curry Queen.",Restaurant,1081
+Any of them would be fine.,,1082
+"Alright, shall I make a reservation for the Curry King?",Booking,1083
+"Yes please, for 3 people t 15:30 on Friday. Thank you.",Restaurant,1084
+Okay done. The reference number for your table is BVK9XZPJ and it is only reserved for 15 minutes.,Booking,1085
+That's awesome. Thanks that's all i need!,,1086
+You're welcome. Bon appetit!,,1087
+I am looking for a restaurant in the centre of Cambridge that serves modern American food.,Restaurant,1088
+I was unable to find any restaurants matching that.,Restaurant,1089
+Then what about modern European?,Restaurant,1090
+I have 4 modern european restaurants in the centre. Do you have a preference on price range?,Restaurant,1091
+"No, just pick a popular one for me and book it for 1 person on Tuesday please.",Restaurant,1092
+"I  book you a table at riverside brasserie, I will send you the reference number.",Booking,1093
+Okay what is it?,,1094
+I need to know the reservation time before I can book a table for you.,Booking,1095
+"I would like the time to be at 14:00, if you cant get that time 13:00 will do. Can I have a reference number? I also need a train.",Train,1096
+Your table has been booked at De Luca Cucina and Bar at 14:00. Your reference number is M81RFLPZ.,Booking,1097
+Thank you. I need a train on Tuesday and I need it to arrive by 10:15.,Train,1098
+There are several trains arriving in Cambridge before 10:15. Where are you traveling from?,Train,1099
+I will be leaving from London Kings Cross.,Train,1100
+I can help you with that but first how many tickets will you be needing?,Train,1101
+One ticket is all I need. Thank you.,Train,1102
+I booked a train leaving at 5:17. Your reference number is LG54YRTF.,Train,1103
+Thank you for your help. That's everything I need for now. Goodbye.,,1104
+"You are most welcome, have a wonderful day!",,1105
+I need help finding a cheap restaurant,Restaurant,1106
+What type of cuisine would you like?,Restaurant,1107
+I'm interested in European cuisine.,Restaurant,1108
+"We have the river bar steakhouse and grill in the centre area, would you like more information?",,1109
+Can you book me a table there for 7 on Friday at 19:45?,Restaurant,1110
+Yes.  Your booking was successful.  The table will be reserved for 15 minutes.  Your reference number is ODB8T8HO.  Is there anything else I can help with?,,1111
+Yes can you help me find a train as well?,Train,1112
+Sure! Where would you like to come from? What day of the week and what time?,Train,1113
+I would like to leave in Saturday.,Train,1114
+We have several options!  Where would you like to go?,Train,1115
+I would like to go to Ely please.,Train,1116
+Do you have a time you need to leave or arrive by?,Train,1117
+The train should arrive by 13:00 and should depart from cambridge.,Train,1118
+"Your best best is TR0721, leaving Cambridge at 11:50 and arriving Ely at 12:07. The trains only run every 2 hours on Saturdays.",Train,1119
+Okay. Can you go ahead and book that train for 7 people please? And give me the reference number.,Train,1120
+"Booking was successful, the total fee is 24.64 GBP payable at the station .Reference number is : OKXUNQ4W",Train,1121
+"Thanks for the help, goodbye!",,1122
+"You are welcome, enjoy your stay!",,1123
+"I'd like to book a taxi from Ask, departing after 19:15.",Taxi,1124
+Could you tell me where your destination will be?,Taxi,1125
+I need to go to rice house.,Taxi,1126
+Could you tell me when you would like to arrive at Rice House?,Taxi,1127
+It doesn't matter when I arrive at Rice House as long as the taxi leaves after 19:15.,Taxi,1128
+You will be picked up by a black ford and the contact number is 07635928440. Anything else?,Taxi,1129
+Nothing else.  Thanks so much for your help.  Bye.,,1130
+Glad to be of help. Goodbye!,,1131
+Are there any trains arriving by 15:15 on Thursday?,Train,1132
+"I can help you with that. What day are you wanting to travel, and where is the destination?",,1133
+"I need to go to Broxbourne, I'll be leaving Cambridge.",Train,1134
+Okay what day would you like to travel?,Train,1135
+I said Thursday.,Train,1136
+The TR0071 arrives at 14:01. Would you like to book tickets?,Train,1137
+"Yes please book for 8 people. I need the reference number. Also, I want information on a restaurant called Bangkok City.",Train,1138
+"Your train is booked, ref #46PQOV6Y. Now, what would you like to know about Bangkok City?",Restaurant,1139
+yes how did you know? lol. Can I have their phone number please,Restaurant,1140
+Their number is 01223354382. Is there anything else I can help you with?,,1141
+That is all thank you goodbye,,1142
+You're welcome. Thank you. Goodbye,,1143
+"Hi, can you help me find a place to stay? Something moderately priced with free wifi.",Hotel,1144
+"I have 17 guesthouses and hotels that fit your criteria, do you have a preference for area?",Hotel,1145
+"Not really, but I'm looking for something with 2 stars.",Hotel,1146
+The ashley hotel and the lovell lodge are both in the north and are in the moderate price range with 2 stars.,Hotel,1147
+Will you book it for a party of 7. 5 days beginning Friday.,Hotel,1148
+Booking at the Ashley Hotel was successful. Reference number is : VFGG7DOD. Is there anything else I can help you with?,Hotel,1149
+"That's great. No I don't need anything else, thank you.",,1150
+Glad we could help you.,,1151
+"Need a place to eat, panasian food, pricey!",Restaurant,1152
+"I'm sorry, there doesn't seem to be any Panasian restaurants that fall into that price range. Would you like to look for a different type of food?",Restaurant,1153
+Thai food would be just as good.,Restaurant,1154
+"I have 2 places, would you like the one in the west or centre of town?",Restaurant,1155
+"Could I have the postcode, and address of both of them please?",Restaurant,1156
+"Sala Thong is at 35 Newnham Road, Newnham, cb39ey and Bangkok City is at 24 Green Street City, Centre, cb23jx.",Restaurant,1157
+Thanks. I need a place to stay also. I would like a guesthouse with free wifi. Can you help me find one?,Hotel,1158
+I show 23 guesthouses available with free wifi.  Which area of town would you like to stay?,Hotel,1159
+"I would like to stay on the east side, please.",Hotel,1160
+There are 6 guest houses in the east that offer free wifi. Can I recommend the Autumn House?,Hotel,1161
+"Hmm, I've never been there. Let's try that. Can you book me a room for Saturday for 5 guests, 2 nights please?",Hotel,1162
+No problem! Booking was successful. Your Reference number is : MJ95SPPP.,Booking,1163
+I'd like to book a taxi to take me from the hotel to the restaurant.,Taxi,1164
+Which restaurant will you be going to and what time would you like to arrive?,Taxi,1165
+"Thank you, I would like to commute from the hotel to Sala Thong, and I want to leave by 06:15.",Taxi,1166
+"Ok, I have booked a taxi for you.  Its going to be a blue Audi & the contact number is 07493726924.",Taxi,1167
+"Great, you've been awesome. Bye.",,1168
+Have a great day and a great trip! Goodbye.,,1169
+Can I please get a train ticket from Norwich to Cambridge?,Train,1170
+We have many trains available but to help find the right one could you provide me with what day you will be departing and your departure time and arrival?,Train,1171
+I will be leaving after 15:15 on Tuesday.,Train,1172
+TR4180 leaves at 15:16. Does that work for you?,Train,1173
+"Perfect, can I get 8 tickets?",Train,1174
+"Booking was successful, the total fee is 140.8 GBP payable at the station .
+Reference number is : CO0GWJCJ. Can I help you with anything else today?",,1175
+i am also looking for places to go in town. The attraction should be in the type of park.,Attraction,1176
+We have a lot of excellent options. Is there a particular area you'd like to visit?,Attraction,1177
+"Yes, I would like to visit a park.",,1178
+"There are parks in the centre, east, north and south.  Could you please let me know which area you prefer?",Attraction,1179
+"The area doesn't matter, can you recommend one?",,1180
+There is the Cherry Hinton Water Play park in the east. It's free to get into.,Attraction,1181
+Can I get the phone number and the postcode?,Attraction,1182
+"Sure, the phone number is 01223446011 and the postcode is cb18dw. Is there anything else I can help you with?",,1183
+"Yes, I would like to find a park to go to.  I will need the phone number and postcode.  Also, what is the entrance fee for this?  Thanks!",Attraction,1184
+It is free admission.,Attraction,1185
+"Okay, that's all I need, thank you so much!",,1186
+"Have a nice day, goodbye.",,1187
+I'm looking for a 4 star hotel in the north.,Hotel,1188
+Are you looking for a specific hotel? Also what type of hotel are you looking for?,Hotel,1189
+"Hm, maybe something moderately priced? With free wifi?",Hotel,1190
+The avolon would feet your needs. Would you like a reservation?,Hotel,1191
+"Yes, I would like it to start Monday and be for 5 nights for 4 people.  Can I get the reference number?",Hotel,1192
+"I have booked you a room here is the information-Booking was successful.
+Reference number is : CZQ8CCGZ. Any thing else I can help you with?",,1193
+I also need a train heading to cambridge on monday as well,Train,1194
+Where will you be leaving from?,Train,1195
+I'll be leaving kings lynn after 13:15.,Train,1196
+I have train TR2257 leaving at 14:11 and arriving at 14:58. Would you like to make a reservation?,Train,1197
+"No, that is all I needed. Thank you!",,1198
+"Okay, thank you! Enjoy your trip.",,1199
+Thank you too!,,1200
+Bye Bye.,,1201
+I'm looking for a train that leaves from Cambridge.,Train,1202
+"There are 1414 trains, what destination do you have in mind?",Train,1203
+I'd like to go to Broxbourne and arrive by 21:30.,Train,1204
+What day did you have in mind?,Train,1205
+I would like to leave on Tuesday and book travel for 8 people. I will also need the reference number.,Train,1206
+I've booked 8 tickets for you on the train arriving at 21:01. Your reference number is 4N4R9KBI. Can I help you with anything else today?,,1207
+Yes.  I'd like to go to the Cambridge Artworks. Can you provide the address?,Attraction,1208
+They are located at 5 greens road,Attraction,1209
+"That is their postcode and phone number, please?",Attraction,1210
+The postcode is cb13ef and the phone number is 01223902168.,Attraction,1211
+Thank you very much! That was all the info i needed.,,1212
+"You're welcome, have a lovely day!",,1213
+"Yes, I need a hotel in the moderate price range please.",Hotel,1214
+Would you like a hotel in the north or the centre?,Hotel,1215
+"The north.  But I do need an actual hotel, no guestrooms.",Hotel,1216
+I have two hotels available that meet that criteria.  Would you like more information?,Hotel,1217
+"Yes, tell me about those.",,1218
+Ashley hotel is 2 stars with free internet and free parking lot.,Hotel,1219
+What about the other hotel?,Hotel,1220
+"Lovell Lodge is also two stars.  In the moderate price range, located in the North, at 365 milton road. It has free parking and wifi.",Hotel,1221
+Could you book me a room at one of those? I need it for 6 people and 2 nights starting from saturday.,Hotel,1222
+I was able to book you at the Ashley Hotel at 74 chesterton road.  Your Reference number is : PM69RLXB Do you need anything else?,,1223
+Thank you so much. That is all I need.,,1224
+Enjoy your stay.,,1225
+I need to find a 4 star hotel in the north,Hotel,1226
+"I found several guesthouses.  There are many in the moderate price range, and one in the cheap range.  Do you have a preference?",Hotel,1227
+A moderate price range is fine and I need it to have free parking as well.,Hotel,1228
+How about the Acorn Guest House? It's moderately priced and has free parking.,Hotel,1229
+Yes please book it for 4 people for 2 nights starting monday for me.,Hotel,1230
+Booking was successful! Your reference number is  DXD1MDA6.,Booking,1231
+I'm also interested in finding a good Chinese food place near the hotel. Can you help me find one?,Restaurant,1232
+"There are three choices.  Hakka and the hotpot which is expensive and golden wok which is moderate, do you have a preference?",Restaurant,1233
+I'll take Hakka. Can you book me a table on Monday at 15:00 for 4 people?,Restaurant,1234
+"I've reserved your table at Hakka on Monday, 15:00, for 4 people. Your reference number is K6D87RRX. Can I help with anything else?",,1235
+"Yes, I will need a taxi to take me from the hotel to the restaurant and back to the hotel.",Taxi,1236
+"You are booked to arrive at the restaurant by three, look for a blue ford, the driver can be contacted by phone at 07232608741",Taxi,1237
+"Thank you, that will be all.",,1238
+"Okay, have a great day!",,1239
+"Hello, I'd like some information about a hotel called the hamilton lodge, please.",Hotel,1240
+The Hamilton Lodge is a 3 star guesthouse located at 156 Chesterton Road. Would you like to make a reservation?,Booking,1241
+Not today I was just looking for information. Thank you though for your help.,,1242
+Is that all you need for today?,,1243
+I am also looking for a train leaving from Cambridge anytime after 17:00. Can you help me with that?,Train,1244
+"Certainly, what day would you like to leave, and where would you like to go?",Train,1245
+I need the train to leave Cambridge after 17:00 on Wednesday heading to Kings Lynn.,Train,1246
+Great. I have 7 trains that meet your criteria. The first one leaves at 17:11 and is every hour thereafter. Would you like me to book one for you?,Train,1247
+What is the cost and trainID for the 17:11 train?,Train,1248
+"The cost is 9.80 pounds, and the train ID is TR8627. Would you like me to book it for you?",Train,1249
+"No thank you, I'll take care of it myself. I think that'll be all for tonight.",,1250
+Thank you for using our service.,,1251
+I need a train departing Cambridge and I need it to arrive by 21:00,Train,1252
+Where are you headed to? And what day are you traveling?,Train,1253
+Looking to go to Stansted Airport on Sunday,Train,1254
+I have TR5009 leaving at 18:40 and arriving by 19:08.  Would you like me to book this for you?,Train,1255
+book for one person please.,Train,1256
+I was able to book that ticket for you. Your reference number is 642J5XG0. Is there anything else I can do for you today?,,1257
+Can you give me information about the riverboat georgina?,Attraction,1258
+"The riverboat georgina is currently docked on the Northend at Cambridge Passenger Cruisers, Jubilee House, postcode cb43ax. Their phone is: 01223902091. I have no info on their entrance fee. Anything else?",,1259
+"No, thanks. You answered all my questions. Thanks so much. Have a good day. Goodbye.",,1260
+Have a good day.,,1261
+I need to find which train will take me from Norwich to Cambridge on Sunday. Can you tell me?,Train,1262
+The first leaves at 6:16 in the morning though there are others almost every hour.,Train,1263
+I need one leaving after 17:00.,Train,1264
+The TR2974 leaves at 17:16.,Train,1265
+That sounds perfect. Could you tell me the travel time and price for that trip?,Train,1266
+The travel time is 79 minutes. The price is 14.08 pounds. Would you like to book that?,Train,1267
+yes please book that train for 15 people.,Train,1268
+Your reference number is UEKLG6II. Do you need anything else?,,1269
+I am looking for a place to go that is mutliple sports.,Attraction,1270
+The the cherry hinton village centre is in the east area. Would you like information on it?,Attraction,1271
+Can you get me the address and entrance fee?,Attraction,1272
+i am sorry but i actually am not finding any information for cherry hinton village. let me do another search for you.,Attraction,1273
+"Try to find a multiple sports attraction, please.",Attraction,1274
+"The Cherry Hinton Village Center is in the east. Their address is colville road, cherry hinton. No entrance fee is listed.",Attraction,1275
+Thanks so much. That's all I needed today.,,1276
+Thanks for using our service!,,1277
+"I'd like to find a restaurant that offers Asian Oriental cuisine, in the centre, if possible.",Restaurant,1278
+"Definitely! I have places from cheap to expensive, though my favorite is Yippee Noodle Bar, which is moderately-priced.",,1279
+I would like Yippee.,,1280
+"I'd be happy to make a reservation for you.  What day/time will you be dining, and how many are in your party?",Booking,1281
+"Monday, 19:00, for 6 people.",Restaurant,1282
+I have successfully reserved a table for your party of 6 at the Yippee Noodle Bar for Monday at 19:00. Your reference number is XSQHK9YG,Booking,1283
+"Great, I also need a hotel room if you can help me find something.",Hotel,1284
+Sure. We have several places ready to book. Which part of town would you like?,Hotel,1285
+The west please.,Hotel,1286
+There are 4 in that area do you have a price range or type of hotel you prefer?,Hotel,1287
+The hotel doesn't need to include internet. It should be in the same area as the restaurant.,Hotel,1288
+I have 5 different options for you. They vary in price range. Did you have a certain price range in mind?,Hotel,1289
+The price does not matter.   Please make a recommendation and book it for the same group of people and 4 nights starting from the same day.,Hotel,1290
+"OK, you are booked in Cityroomz as requested, the reference number is A1ZBLCZ3, any further questions?",,1291
+no and thank you for your help,,1292
+"Ok, have a great day!",,1293
+I want a cheap Italian restaurant in the south side of town.,Restaurant,1294
+I'm sorry. I cannot find a cheap Italian restaurant in the south side of town.,Restaurant,1295
+I would like to find a moderately priced restaurant in the west part of town.,Restaurant,1296
+Prezzo is a moderately priced Italian restaurant in the west part of town.  There is also Indian and British food available in that area and price range.  Would you like more info?,,1297
+Yes can I get thier address and postcode?,Restaurant,1298
+"Of course, Prezzo's address is 21 - 24 Northampton Road and postcode is C.B 3, 0 A.D.",Restaurant,1299
+Thank you!  Goodbye!,,1300
+Thank you! Goodbye!,,1301
+I would like to book a taxi to hughes hall please.,Taxi,1302
+Where will you be departing from?,Taxi,1303
+I will be departing from the river bar.,Taxi,1304
+What time would you like to leave by?,Taxi,1305
+I would like to arrive by 19:00 if possible.,Taxi,1306
+"Great, I have booked you a white Honda the Contact number is 07767407244. Anything else I can help you with.",Taxi,1307
+nope thats all thanks,,1308
+It was my pleasure to assist you with that. Hoping you have a great day. Goodbye.,,1309
+I'd like to visit a museum.  What do you have in town within walking distance?,Attraction,1310
+Which side of town will you be on?,Attraction,1311
+Any area is fine.,Attraction,1312
+"Cafe jello gallery is a museum in the west area, it has free entrance. Would you like the address or phone number for it?",,1313
+"Sounds good . please get me their phone number , postcode and area.",Attraction,1314
+The number for Cafe Jello Gallery is 01223312112. It is in the west end of town and the postcode is cb30af.,Attraction,1315
+Thank you.  I also need a hotel with a 4 star rating in the expensive price range.,Hotel,1316
+"I have Huntington Marriott Hotel in the west, 4 star rating. Would you like a reservation?",Booking,1317
+I need to make reservations for 6 people and 2 nights from sunday.,Hotel,1318
+"just to verify, do you want the hotel for tuesday night? or for sunday and staying for two night?",Booking,1319
+"I'm sorry, starting from Sunday for 2 nights, 6 people. If that fails try one night and provide the reference number.",Hotel,1320
+I have been successful in this and your reference number is 7YAVA5YB.,Booking,1321
+Thank you. Now can you help me book a taxi to go from the hotel to the attraction? I'd like to leave the hotel by 8:45,Hotel,1322
+Your taxi is all set! You will be picked up in a grey toyota and their contact number is 07189428446.,Taxi,1323
+"Great, thanks so much for all of your help today.  That is everything. Bye.",,1324
+Glad I could assist you today. Enjoy your day.,,1325
+Hi there. I need help finding a train leaving Cambridge on Sunday.,Train,1326
+"Okay, train TR8131 leaves at 7:17 on Sunday and arrives by 8:08.  Would you like me to book that for you?",Train,1327
+Yes please book it,,1328
+"Excellent, how many are travelling?",Train,1329
+The train should be arriving at london liverpool street and leave after 10:00. I would like 4 tickets for that specific train. I also need the reference number.,Train,1330
+I would recommend TR5767 which leaves Cambridge at 10:21 and arrives in Leicester at 12:06.  Would you like this to be booked for you?,Train,1331
+"Let's back up a bit here. I need to get to London Liverpool Street, not Leicester.",Train,1332
+I have TR9025 that I can book for you that departs cambridge at 11:59 and arrives at liverpool street at 13:27. Does that work for you?,Train,1333
+It does. Please book for four people and give me the reference number.,Train,1334
+I was able to book those 4 tickets for you. Your reference number is G6ULCKEV. Is there anything more I can help you with?,,1335
+I'm also looking for information about a hotel called cityroomz.,Hotel,1336
+cityroomz is a moderately priced 0-star hotel in the centre area. Anything more specific about it you'd like to know?,Hotel,1337
+Yes can you tell me the area it is located in and the postal code?,Hotel,1338
+"Yes, it's in the centre area and the postcode is cb12tz. I can try to book you a room if you'd like. Or help you with something else?",Booking,1339
+That's okay. Thanks for all your help!,,1340
+"You're welcome, enjoy.",,1341
+"Hi, I'm looking for a train that's departing Cambridge and going to London Liverpool Street.",Train,1342
+"I have the listings up for you, what date and time will you need that train?",Train,1343
+"I need to travel on Thursday, and I need to arrive by no later than 16:15.",Train,1344
+"There are 5 results, depending on when you want to leave. There is a train that leaves at 11:59 and arrives by 13:27, will that be ok?",Train,1345
+"Yes, that will work can you book that for me?",,1346
+Yes I can book that for you. How many people will be needing tickets?,Train,1347
+I need tickets for 8 people.,Train,1348
+Your reference number is OWVUY7ZZ. The total fee is 132.8 GBP payable at the station. Do you need anything else?,,1349
+"Thanks and yes, now that you asked, I really would like to check out some colleges in the centre",Attraction,1350
+"You're in luck, we have 13 colleges in the centre. May I recommend Christ's College for you? It has free admission.",Attraction,1351
+"could you please provide the address, phone number, and entrance fee.",Attraction,1352
+Christs College is on St. Anfrews st. and phone is 01223334900,Attraction,1353
+Are there any expensive places to eat in the east?,Restaurant,1354
+Grafton hotel restaurant serves british food in the expensive price range in the east part of town.,Restaurant,1355
+I was really looking for a kosher cuisine? Is that available there? If so can you book a table for four?,Restaurant,1356
+There are no restaurants in the east that serve kosher food. Would you like me to search another area?,Restaurant,1357
+Are there any restaurants that serve Indian food?,Restaurant,1358
+I can book you a table for 4 at the pipasha restaurant.,Booking,1359
+Can you give me the address for an indian restaurant in the south part of town?,Restaurant,1360
+taj tandoori is the only one matching your request. you can contact them at 01223 412299.,Restaurant,1361
+What is the address and price range?,Restaurant,1362
+The address of the venue is 64 Cherry Hinton Road Cherry Hinton and in expensive price range.,Restaurant,1363
+"Thank you, goodbye.",,1364
+Thank You and come again.,,1365
+"Yes, I am visiting cambridge, and would like to know what theatres are available in town",Attraction,1366
+There are 5 theatres. Will you be in the centre or south part of Cambridge?,Attraction,1367
+"Oh I'm not picky, can you pick one for me?",,1368
+I'm going to recommend The Junction for you.  It's located on Clifton Way.  Would you like the phone number to see what is playing and when?,Attraction,1369
+"No thank you. However, I am looking for a train. I need to depart from London Kings Cross and travel to Cambridge.",Train,1370
+When would you like to travel?,Train,1371
+Wednesday and I need to leave after 13:30 please.,Train,1372
+TR0397 will leave at 15:17 and arrive at 16:08. Would you be interested in booking this train?,Train,1373
+"Yes, that would be fine. I need to make the booking for 8 people, please.",Train,1374
+I've booked that for you.  The reference number is 1LHOCOGA.  Anything else I can do for you?,,1375
+"That is all. Thank you, good bye.",,1376
+Please contact us anytime. Goodbye.,,1377
+I need a train that gets me into Cambridge by 21:30,Train,1378
+"sure, what day are you traveling?",Train,1379
+I'm leaving on Saturday. I am coming from London Kings Cross.,Train,1380
+The TR7223 arrives in Cambridge at 20:08. Will that suit you?,Train,1381
+"Yes, could you book me tickets for 7 people on that train?",Train,1382
+Absolutely! Go ahead and pay 132.16 GBP at the station for the 7 tickets. Would you like your reference number?,Train,1383
+Can you recommend a cinema in the east?,Attraction,1384
+There are no cinemas in the east. Can I help find something else?,Attraction,1385
+"Actually, yes, I do need that reference number on that train.  And, maybe you could find a museum instead of a cinema?",Train,1386
+reference number is K13L3ILC.,Train,1387
+"What about a museum? Are there any of those in the east? If so, please give me some additional information including the entrance fee.",Attraction,1388
+"There are 4, I would recommend Cambridge Artworks 5 Greens Road, postcode cb13ef, number 01223902168. There is no entrance fee. Is there anything else I can assist you with?",Attraction,1389
+Thank you.  You have covered everything.,,1390
+thank you for using our system. have a good day.,,1391
