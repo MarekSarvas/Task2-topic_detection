@@ -23,7 +23,7 @@ def parse_args():
         "--multiwoz",
         type=str,
         default="data/MultiWOZ_2.1/data.json",
-        help="Path to checkpoint of trained model."
+        help="Path to the original dataset data."
     )
     parser.add_argument(
         "--out_dir",

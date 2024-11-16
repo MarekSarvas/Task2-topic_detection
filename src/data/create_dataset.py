@@ -22,7 +22,7 @@ def parse_args():
         "--data",
         type=str,
         default="data/dp_topics_downsampled_data/valid.csv",
-        help="Path to checkpoint of trained model."
+        help="Path to the data from original dataset."
     )
     parser.add_argument(
         "--out_dir",
