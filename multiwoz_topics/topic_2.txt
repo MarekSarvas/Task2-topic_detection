@@ -1,0 +1,18 @@
+Most common words in this topic:
+thank, great, welcome., thanks, goodbye., that's, you., day., need, good
+
+Key-phrases extracted with nltk:
+great day great trip
+great day
+good day
+great trip
+much help
+great time
+thanks assistance
+nice day
+wonderful day
+perfect thanks
+day
+
+Key-words extracted with pre-trained model:
+

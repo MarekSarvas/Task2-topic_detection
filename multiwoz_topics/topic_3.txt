@@ -1,0 +1,18 @@
+Most common words in this topic:
+would, like, looking, centre, town., cambridge, go, phone, museum, area
+
+Key-phrases extracted with nltk:
+attraction centre town
+centre part town
+lot popular attractions centre town
+centre town
+north centre town
+looking information places
+centre south part cambridge
+cambridge centre
+centre cambridge
+west part town
+east part town
+
+Key-words extracted with pre-trained model:
+8, admission, attraction centre town, attractions, bar hill, boating, cambrdige, cambridge artworks wonderful museum east, cherry hinton hall, cherry hinton road, cherry hinton water, cinema, cineworld cinema, corn exchange theatre, downing street free admission, entrance fee information, fine attractions center town, holy trinity church, information, information cafe jello gallery, kymmoy centre, mill road, mumford theatre, museum archaelogy anthropology, museum east area, museums, museums centre town, nightclubs, park east, parkside pools centre, pool, postcode, preference area, price range, swimming pool, theater attractions, theatre attractions, theatre second, university cambridge, west museum

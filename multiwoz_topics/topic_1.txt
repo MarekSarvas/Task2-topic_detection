@@ -1,0 +1,18 @@
+Most common words in this topic:
+reference, book, number, need, people, would, like, table, booking, nights
+
+Key-phrases extracted with nltk:
+reference number table bvk9xzpj
+reference number
+reference numbers
+successful reference number
+reference number booking
+number people
+reference number qjmiccey
+reference number i4012zaz
+reference number 3c5h16n9
+reference number 3cry3ddp
+reference number 5msb4h92
+
+Key-words extracted with pre-trained model:
+bistro, book, book room, book room autumn house, book room me, bookid bridge guest house, day checking, dine, golden wok, hotel reservation, liberty booking oak, number, people time preference, reference number, reference number 1asq2s6y, regent street, reservation, room tuesday, saturday, want reservations, yes booked reference number
