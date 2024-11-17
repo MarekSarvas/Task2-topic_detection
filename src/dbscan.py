@@ -2,11 +2,11 @@ import argparse
 from pathlib import Path
 
 
-from joblib.externals.cloudpickle import dis
 import numpy as np
 
 from sklearn.cluster import DBSCAN
-from sklearn.neighbors import NearestNeighbors, silhouette_score
+from sklearn.neighbors import NearestNeighbors
+from sklearn.metrics import silhouette_score
 from matplotlib import pyplot as plt
 
 
