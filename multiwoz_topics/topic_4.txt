@@ -1,0 +1,18 @@
+Most common words in this topic:
+free, hotel, like, would, need, price, star, guest, parking., 4
+
+Key-phrases extracted with nltk:
+hotels free parking
+cheap hotel free parking
+hotel centre free parking
+free parking wifi
+free wifi parking
+free parking
+hotel moderate price range star rating
+hotel area price range
+free parking internet
+guesthouse free wifi
+hotel wifi
+
+Key-words extracted with pre-trained model:
+01223366611, acorn, acorn guest house, acorn guest house beautiful, acorn guesthouse, alexander bed breakfast, alpha milton guest house, archway house, autumn house, book, book reservation, book room acorn guest house, bridge guesthouse, contact information, free parking, guest house you, guesthouses matching criteria, happy, hotel, hotel centre free, hotel type phone number please, hotels, hotels free, house, information, internet, internet parking, length stay, local tourist attractions, normal hotel phone number, north, reference, regent street centre town, south free, star hotels centre free, star rating, stay free parking, tell star hotel offer free parking, university arms hotel

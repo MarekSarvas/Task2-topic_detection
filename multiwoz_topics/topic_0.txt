@@ -1,0 +1,18 @@
+Most common words in this topic:
+train, would, like, need, cambridge, arrive, book, arrives, time, departing
+
+Key-phrases extracted with nltk:
+train departing cambridge
+train cambridge
+cambridge looking train
+train depart cambridge
+reference number train
+train cambridge norwich
+book train
+train ticket norwich cambridge
+train london kings
+train departing stevenage
+train
+
+Key-words extracted with pre-trained model:
+50 pounds travel time 50 minutes, book, book it, book train, cambridge, cambridge leicester, chesterton road, day, day want travel, expense travel time, hotel, info train, liverpool street, london, london kings, reference, reservation number, tr1058, tra, train, trains, travel
